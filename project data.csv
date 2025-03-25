@@ -1,0 +1,1001 @@
+Property_ID,Property_Type,Location,Size_sqft,Bedrooms,Bathrooms,Price,Status,Owner_Name,Listed_Date
+4c0a5825,Villa,Dallas,2284.0,1.0,2.0,200329.0,Sold,Kenneth Gonzales,2025-03-16
+0273c424,Apartment,Seattle,3592.0,5.0,3.0,783134.0,Sold,James Barber,2023-07-14
+d29be33b,Apartment,Chicago,3394.0,4.0,2.0,992126.0,Sold,Phyllis Silva,2024-02-20
+b5aff043,Villa,San Francisco,1578.0,1.0,1.0,423620.0,Sold,Jason West,2024-05-14
+d17d2d59,House,Boston,625.0,3.0,2.0,677900.0,Available,Joseph Conrad,2024-06-03
+106164e2,Apartment,Dallas,2045.0,3.0,4.0,892998.0,Available,Sharon Baker,2023-08-18
+327584bd,Commercial,Miami,2321.0,5.0,2.0,138599.0,Available,Michael Mann,2024-12-23
+8d8aa3b7,Apartment,Chicago,3028.0,1.0,2.0,379122.0,Sold,Tanner Atkinson,2024-07-24
+362d1364,House,Denver,1389.0,5.0,1.0,608060.0,Sold,Dr. Keith Jones,2023-12-22
+391d621a,Apartment,Los Angeles,2388.0,2.0,3.0,842897.0,Available,Christine Espinoza,2024-01-05
+209670b4,Commercial,San Francisco,3207.0,2.0,3.0,936746.0,Sold,Patrick Vang,2024-12-29
+fb6653fb,Commercial,Seattle,4450.0,2.0,,805005.0,Available,Jill Leonard,2024-09-10
+735dfe2a,Apartment,New York,3242.0,2.0,4.0,131832.0,Available,Jeremy Nixon,2024-10-24
+3a40dbb6,Commercial,San Francisco,4977.0,4.0,3.0,870577.0,Available,Michael Mendoza,2023-12-28
+4d21ef50,Villa,Seattle,4174.0,3.0,4.0,983165.0,Sold,Michael May,2023-10-29
+acf327b7,House,New York,1803.0,6.0,2.0,922237.0,Sold,Judith Wallace,2023-11-28
+e12dedcd,House,Denver,2072.0,6.0,2.0,658657.0,Sold,Zachary Nguyen,2024-09-01
+610b5dc3,Villa,Houston,1660.0,6.0,2.0,859206.0,Available,Darin Noble,2023-12-18
+8a23e725,Commercial,New York,3356.0,1.0,1.0,,Rented,Mrs. Tracy Jones,2024-10-30
+d3a0aa13,House,San Francisco,1101.0,5.0,3.0,459815.0,Sold,Carrie Harris,2024-04-03
+8f9acecc,House,Denver,3565.0,2.0,1.0,245356.0,Rented,Nicole Montgomery,2024-04-27
+29ffee44,Villa,Houston,2539.0,2.0,4.0,701424.0,Available,Spencer Davis,2025-02-26
+c4ec62b4,Apartment,Miami,818.0,4.0,2.0,701423.0,Sold,Shannon Anderson,2023-04-08
+822a444f,Apartment,New York,3859.0,5.0,3.0,915592.0,Sold,Andrew Oliver,2023-07-06
+fc0ac3ad,House,New York,1192.0,4.0,1.0,766386.0,Rented,Thomas Crawford,2025-01-23
+725fc6ba,Apartment,Dallas,4065.0,6.0,4.0,748332.0,Available,Todd Lin,2025-01-04
+940fbea6,House,Seattle,1162.0,4.0,2.0,308745.0,Sold,Frank Lin,2023-08-03
+b6056476,Commercial,Los Angeles,4009.0,6.0,3.0,136602.0,Rented,Samantha Murray,2025-02-10
+39266d44,Commercial,Boston,513.0,3.0,2.0,893699.0,Sold,Melissa Randall,2024-05-04
+2cc11b01,Villa,Chicago,,6.0,1.0,402507.0,Available,Angela Edwards,2023-04-05
+7b0be224,Commercial,San Francisco,4975.0,6.0,4.0,289239.0,Available,Keith Mills,2024-05-07
+013b73fc,House,New York,3612.0,2.0,2.0,900604.0,Available,Nina Baxter,2024-08-06
+cf125206,Villa,Chicago,1253.0,1.0,4.0,754318.0,Sold,Bradley Cortez,2024-07-20
+5bef9008,Apartment,Miami,1592.0,2.0,2.0,868608.0,Rented,Garrett Gibson,2024-11-05
+ba17ea72,House,San Francisco,3778.0,6.0,1.0,55538.0,Available,Tyler Nguyen,2024-08-30
+b16c1267,Apartment,Houston,1584.0,6.0,1.0,115732.0,Rented,Elaine Cruz,2023-09-27
+3907a9cf,Apartment,New York,653.0,1.0,2.0,886404.0,Rented,Kelli Hernandez,2024-05-11
+c9429d3c,Commercial,San Francisco,3098.0,5.0,2.0,771465.0,Rented,Richard Holder,2024-08-29
+14e0a422,Villa,Houston,737.0,2.0,4.0,880842.0,Sold,Ashley Adams,2023-10-27
+e719ce6a,Commercial,Boston,1676.0,5.0,3.0,899679.0,Rented,Diane Brewer,2024-12-26
+373aa45f,House,Dallas,1542.0,3.0,4.0,570405.0,Sold,Larry Miller,2025-01-20
+1d1b056f,Commercial,San Francisco,4131.0,4.0,2.0,149319.0,Sold,Marcus Gonzalez,2024-03-07
+97e3a96b,Apartment,New York,2302.0,3.0,2.0,686549.0,Rented,Xavier Ryan,2025-01-27
+b8abee3c,Apartment,Denver,1224.0,6.0,2.0,208591.0,Sold,Theresa Payne,2023-10-29
+f955721c,Villa,Denver,2245.0,4.0,2.0,833321.0,Rented,Cody Gray,2025-02-06
+1af77f4d,Villa,Miami,2641.0,3.0,3.0,755498.0,Rented,Linda Hernandez,2024-04-30
+6746b369,Commercial,Denver,863.0,6.0,1.0,961456.0,Available,Yolanda Cruz,2023-08-08
+5388ca52,Apartment,Seattle,,5.0,3.0,720971.0,Rented,Dawn Brown,2023-05-07
+6a445c14,Apartment,Miami,1821.0,1.0,3.0,992516.0,Sold,Nicole Schmidt,2024-09-16
+566c198e,Apartment,Houston,3550.0,3.0,2.0,262406.0,Available,Michael Reed,2023-09-27
+22a95120,Commercial,Denver,,1.0,3.0,910116.0,Available,Michael Jordan,2024-11-05
+c59d0246,Commercial,New York,3489.0,1.0,4.0,100857.0,Available,Robert Ibarra,2023-04-16
+6d8f379f,House,Chicago,2907.0,5.0,4.0,418594.0,Sold,Eric Brewer,2023-07-31
+2b92edda,Commercial,Dallas,4781.0,6.0,3.0,595121.0,Rented,Sheila Wilson,2023-08-20
+e2317f9c,Apartment,New York,2406.0,1.0,1.0,225719.0,Available,William Rosario,2024-06-08
+0a153ce5,Apartment,Seattle,3778.0,2.0,3.0,879970.0,Rented,Sandra Evans,2024-07-19
+06c42a93,House,Seattle,3595.0,1.0,1.0,995692.0,Available,Brian Sweeney,2024-10-29
+2d51bb82,Commercial,Dallas,2684.0,5.0,4.0,955736.0,Available,Cassidy Watkins,2023-12-14
+ab074fb1,House,Dallas,2771.0,3.0,3.0,474246.0,Rented,Michelle Landry,2025-01-14
+ba165190,Villa,San Francisco,,6.0,4.0,106259.0,Rented,Kim Mason,2024-12-06
+f9f68ebf,Commercial,Chicago,,3.0,1.0,808843.0,Sold,Emily Gonzales,2025-02-27
+8a976020,Commercial,Seattle,1575.0,5.0,2.0,142795.0,Available,Craig Jackson,2024-10-16
+cab35007,Villa,Houston,4559.0,6.0,2.0,332101.0,Rented,Nancy Simpson,2023-06-15
+5a08f05d,House,Denver,3992.0,1.0,3.0,648100.0,Rented,Reginald Friedman,2024-12-27
+d7c4ee00,Apartment,San Francisco,1554.0,3.0,2.0,463425.0,Available,Gregory Hughes,2024-11-03
+48042205,Commercial,Los Angeles,2060.0,6.0,2.0,899343.0,Rented,Heidi Martinez,2024-01-27
+6384a070,House,Denver,4073.0,1.0,2.0,278718.0,Rented,Jeffrey Dyer,2024-07-22
+29f5460a,Commercial,Denver,3052.0,6.0,1.0,272459.0,Sold,Joyce Schneider MD,2025-01-02
+f06780c5,Villa,Houston,3033.0,2.0,4.0,819518.0,Rented,Lisa Carroll,2025-03-01
+67ffb928,Commercial,New York,4016.0,2.0,1.0,678992.0,Available,Teresa Adams,2024-09-22
+61c6e567,Apartment,Denver,3491.0,4.0,3.0,204698.0,Sold,David Turner,2023-05-07
+face9f3b,Villa,Miami,,1.0,3.0,772505.0,Sold,Amanda Joyce,2024-04-10
+ec350c23,House,Seattle,3250.0,3.0,4.0,733371.0,Available,David Tran,2024-04-08
+2dd729f1,Villa,Boston,1073.0,6.0,4.0,709891.0,Available,Amy Smith,2024-05-02
+84b055cc,House,Chicago,2085.0,6.0,4.0,331371.0,Available,Justin Avery,2024-11-08
+3b756d45,House,Houston,1079.0,3.0,3.0,936457.0,Sold,Patricia Johnson,2024-01-22
+de5f9639,Commercial,Seattle,1432.0,6.0,2.0,420231.0,Available,Kevin Woods,2023-11-26
+40e31671,House,Dallas,1116.0,5.0,1.0,751566.0,Sold,Alexander Rodgers,2024-08-12
+714ecab4,Apartment,Boston,4575.0,5.0,3.0,297853.0,Rented,Suzanne Rogers,2023-04-20
+58a71176,Apartment,Dallas,3057.0,2.0,3.0,474173.0,Sold,Michael Terry,2024-05-22
+eea105bf,Commercial,Los Angeles,926.0,3.0,1.0,668827.0,Rented,John Flynn,2024-07-23
+056cc630,Commercial,Los Angeles,795.0,6.0,,229443.0,Sold,Jasmine Adams,2024-12-13
+c9fc16f9,Apartment,Miami,1415.0,1.0,4.0,759391.0,Available,David Smith,2024-07-04
+b7c9c806,Villa,Los Angeles,3464.0,6.0,3.0,539642.0,Rented,Brandon King,2023-03-29
+64a466d1,Commercial,Houston,4183.0,6.0,4.0,254519.0,Available,Wayne Dixon,2024-05-29
+34e7d442,Villa,Boston,4709.0,2.0,2.0,868484.0,Available,Rebecca Welch,2025-01-23
+23f63da8,Commercial,Denver,4032.0,1.0,4.0,926006.0,Rented,Michael Pham,2024-12-30
+72035289,Apartment,Seattle,2913.0,2.0,3.0,307996.0,Rented,Justin Ryan,2024-04-29
+5d6693af,Apartment,Miami,,2.0,4.0,848506.0,Available,Christian Rosales,2023-06-30
+680352db,Apartment,New York,1117.0,1.0,2.0,165350.0,Available,Jeffrey Payne,2024-07-15
+e1bcbdb8,House,Chicago,2711.0,4.0,3.0,553480.0,Rented,David Wilson,2024-12-21
+8529aa4b,Villa,Seattle,526.0,2.0,1.0,258909.0,Available,Robert Jackson,2024-06-16
+cd00bdca,Commercial,Miami,2220.0,2.0,2.0,520919.0,Sold,Kelsey Haynes,2023-07-11
+be701912,Commercial,San Francisco,4793.0,2.0,4.0,332929.0,Sold,Samantha Miller,2024-01-14
+aa6d230a,Villa,Miami,2494.0,5.0,2.0,852699.0,Rented,Angel Hughes,2024-06-24
+b88b5fcf,Commercial,Chicago,4065.0,6.0,1.0,629838.0,Rented,Ms. Cynthia Jackson,2024-05-18
+ad0b8794,House,Dallas,3405.0,3.0,4.0,827864.0,Available,Cody Smith,2025-02-19
+e196bc9f,Villa,Boston,4402.0,2.0,2.0,685399.0,Rented,George Hale,2023-10-30
+abe03993,Apartment,Seattle,896.0,2.0,1.0,922810.0,Rented,Stephanie Phillips,2023-06-13
+0eb024e1,Commercial,Seattle,,2.0,4.0,90480.0,Available,Richard Wyatt,2024-04-29
+d41e855b,House,Houston,,1.0,3.0,299665.0,Available,Brooke Lee,2024-05-15
+ff22a603,Apartment,Los Angeles,2460.0,4.0,4.0,874788.0,Available,Stephanie Garcia,2023-11-24
+f1b5889f,Apartment,Miami,1527.0,2.0,4.0,313987.0,Rented,Brandon Elliott,2023-03-19
+f9f4921a,Commercial,Chicago,1910.0,5.0,1.0,856840.0,Available,Katherine Miller,2024-03-22
+a3555492,House,New York,2998.0,5.0,4.0,450163.0,Rented,Leslie Rice,2023-08-26
+ab089dc3,House,Houston,3513.0,4.0,2.0,,Available,Terri Pham,2024-03-19
+16171f07,Commercial,Seattle,2274.0,1.0,2.0,940956.0,Rented,Megan Wolfe,2023-08-14
+139cd2f2,House,Houston,2271.0,4.0,1.0,841205.0,Available,Gabriel Pineda,2023-04-29
+247c1c08,Apartment,Boston,3354.0,6.0,2.0,992424.0,Rented,Catherine Lewis,2023-12-12
+015d8eea,Villa,Los Angeles,3018.0,5.0,3.0,829937.0,Rented,Jeffrey Davis,2024-01-15
+cccb9540,Villa,Boston,1006.0,1.0,3.0,877477.0,Rented,Sarah Dawson,2023-08-12
+d9b09be0,Commercial,Los Angeles,844.0,1.0,4.0,601858.0,Rented,Ashley Mitchell,2024-05-21
+0a43727e,Commercial,New York,1062.0,4.0,3.0,773288.0,Sold,Joan Torres,2024-05-12
+fe56dd69,House,Boston,1276.0,6.0,3.0,876301.0,Rented,Tanya Odom,2024-08-20
+3768ce92,Villa,Los Angeles,4123.0,1.0,1.0,397318.0,Sold,Lisa Townsend,2025-01-12
+c27b9a0c,House,San Francisco,4709.0,5.0,2.0,346101.0,Sold,William Briggs,2023-08-16
+4ebd1a00,Commercial,San Francisco,,5.0,4.0,189598.0,Available,Kim Wallace,2023-08-18
+bf86c72a,Apartment,Miami,1598.0,6.0,1.0,996036.0,Sold,Michael Thomas,2023-10-31
+a0d816a0,Villa,Miami,4215.0,1.0,2.0,738030.0,Available,Caitlin Norris,2024-11-20
+c4efebca,House,Los Angeles,2929.0,2.0,1.0,921422.0,Rented,Calvin Sanchez DDS,2024-11-04
+898d1bdb,House,Los Angeles,2745.0,6.0,3.0,692747.0,Sold,Linda Castro,2023-05-29
+54edc1ce,House,Houston,3517.0,2.0,2.0,,Available,Tammy Burns,2024-10-14
+619a75cf,Commercial,New York,2275.0,2.0,4.0,586778.0,Available,Ruben Grant,2023-04-27
+57952b1f,Villa,Chicago,4380.0,6.0,4.0,497651.0,Sold,Matthew Oconnor,2023-09-05
+8415c896,Commercial,Denver,3363.0,3.0,3.0,940571.0,Sold,Gregory Sparks,2023-12-05
+9bcbd1f2,House,Houston,4842.0,6.0,1.0,,Sold,Michael Alexander,2023-09-10
+9e20efae,House,Boston,2993.0,6.0,2.0,884038.0,Available,Mike Kane,2023-09-27
+83010ac9,House,San Francisco,2764.0,6.0,2.0,196790.0,Rented,Christian Waters,2024-06-17
+375f57ec,Apartment,Denver,4229.0,6.0,1.0,995741.0,Rented,Brad Nichols,2023-03-31
+72013d33,Villa,Dallas,4358.0,3.0,1.0,836919.0,Sold,Sean Decker,2024-10-08
+be932304,Commercial,New York,637.0,4.0,,755133.0,Available,Cheryl Rasmussen,2024-07-23
+ec59b173,Apartment,Dallas,2235.0,4.0,,586314.0,Available,Michael Young,2025-01-07
+7df5a647,House,Los Angeles,2528.0,1.0,2.0,77265.0,Sold,Jessica Thomas,2023-08-05
+e7d595a0,House,Dallas,1416.0,6.0,,607193.0,Sold,Nicole Dickerson,2024-01-04
+301142a2,Apartment,Houston,,2.0,4.0,903412.0,Rented,Michelle Ochoa,2023-03-22
+8542694d,Villa,Miami,4623.0,3.0,3.0,786029.0,Rented,Mark Tate,2025-01-15
+29f2b925,Commercial,Denver,1519.0,,3.0,547609.0,Rented,Brian Beard,2024-05-26
+c61561bd,Villa,Seattle,1181.0,6.0,1.0,896627.0,Sold,Joel White,2024-03-26
+9648a002,Commercial,San Francisco,4577.0,6.0,2.0,,Sold,Jason Mathews,2023-03-18
+259f3003,Villa,Boston,4524.0,1.0,3.0,340222.0,Rented,Lauren David,2024-01-10
+4008e590,House,Miami,1557.0,6.0,2.0,453862.0,Rented,Nicole Buchanan,2023-07-04
+42f1422c,Villa,Miami,3306.0,4.0,2.0,406415.0,Sold,Marcia Bass,2024-03-27
+51cede27,Apartment,Chicago,3628.0,2.0,1.0,219165.0,Rented,Theresa Roman,2025-02-06
+764b99d4,Villa,Chicago,1271.0,2.0,2.0,505373.0,Rented,Kaitlyn Todd,2024-10-25
+a556a1e0,House,Boston,3197.0,1.0,4.0,467334.0,Sold,Evan Moore,2023-07-31
+93af6e4f,House,Chicago,2649.0,2.0,4.0,554285.0,Rented,Nicholas Thompson,2023-09-17
+06ff1306,House,Houston,3206.0,3.0,3.0,366872.0,Rented,Brent Montgomery,2024-05-24
+8f53aa3b,Commercial,Houston,3369.0,2.0,,969924.0,Available,Christopher Ball,2024-04-17
+333d93c4,Villa,Seattle,3356.0,2.0,3.0,882495.0,Rented,Jeffrey Herman,2024-09-12
+5b7c3d13,Commercial,San Francisco,3788.0,3.0,2.0,246736.0,Sold,Joshua Armstrong,2024-06-25
+03c7b7e6,Villa,Miami,3616.0,2.0,,756994.0,Rented,Marc Tate,2025-01-16
+0fc622dc,Apartment,Boston,2327.0,4.0,3.0,629664.0,Rented,Ricky Murphy,2024-11-18
+2b882eaf,Apartment,Chicago,3006.0,5.0,1.0,561142.0,Rented,Danielle Marquez,2024-12-05
+3f23874c,Commercial,Miami,735.0,2.0,2.0,167839.0,Sold,Michael Clayton,2024-04-05
+ba4b1492,Apartment,Boston,4526.0,1.0,2.0,559215.0,Rented,Jonathan Stone,2025-01-19
+19772d6a,Villa,Denver,848.0,3.0,4.0,423420.0,Available,Denise Wu,2023-09-17
+e4156246,Commercial,Chicago,3373.0,6.0,4.0,492064.0,Rented,Kyle Wood,2023-11-08
+03d0b98e,Commercial,Los Angeles,,2.0,1.0,750808.0,Rented,Andrea Morris,2024-07-13
+201dd2e5,House,Miami,4356.0,4.0,4.0,683020.0,Available,Margaret Mitchell,2023-04-10
+3f0b4fb7,Commercial,Los Angeles,4015.0,2.0,1.0,607432.0,Sold,Timothy Klein,2024-08-15
+29670ded,Commercial,Boston,2389.0,1.0,2.0,223358.0,Sold,Aaron Campbell,2024-02-17
+e00cd343,House,Chicago,2904.0,1.0,3.0,398573.0,Available,Ricky Diaz,2023-08-21
+aa5ac322,House,Boston,562.0,1.0,2.0,432723.0,Rented,Willie Galvan,2024-05-18
+cd73141d,House,New York,2651.0,1.0,1.0,855003.0,Rented,Jamie Ballard,2024-07-28
+446dc501,Villa,Los Angeles,4806.0,2.0,2.0,572625.0,Rented,Mitchell Irwin,2024-05-14
+a91f4941,Commercial,Dallas,4558.0,3.0,2.0,392977.0,Rented,Michelle King,2024-07-09
+de20fa1a,Apartment,Seattle,713.0,5.0,3.0,496153.0,Sold,Mrs. Meghan Collins,2023-11-12
+0039b347,Villa,Boston,4090.0,1.0,3.0,576978.0,Rented,Daniel Rowe,2023-10-30
+c838fad4,Apartment,Denver,4333.0,6.0,1.0,104245.0,Sold,Lisa Young DDS,2023-07-10
+a02d855e,Villa,Houston,1200.0,3.0,3.0,563400.0,Sold,Dennis Dougherty,2024-12-02
+fe82d2ac,Villa,Houston,4160.0,6.0,1.0,316791.0,Rented,Jamie Adams,2023-12-08
+87bb1420,Apartment,Chicago,4767.0,2.0,2.0,96793.0,Rented,Tasha Walker,2024-08-10
+59f90e21,Apartment,Los Angeles,2540.0,3.0,4.0,785801.0,Rented,Jacqueline Brown,2024-01-21
+5224e330,Commercial,Miami,1621.0,3.0,3.0,56718.0,Rented,Luis Brock,2023-09-23
+8bf314b3,Commercial,Los Angeles,2246.0,2.0,2.0,682354.0,Available,Gerald Galvan,2023-12-20
+9b0b9571,House,Denver,1841.0,4.0,1.0,408480.0,Rented,Elizabeth Lester,2025-01-06
+bd5fd760,House,Boston,4881.0,5.0,3.0,495663.0,Available,Paul Brown,2024-05-08
+12fcefd3,Apartment,Seattle,2944.0,5.0,1.0,790824.0,Rented,Daniel White,2024-06-23
+164312df,House,Miami,4857.0,4.0,2.0,415641.0,Rented,Amanda Meyers,2024-12-05
+092322f7,House,Houston,3878.0,2.0,3.0,284005.0,Sold,Suzanne Hopkins,2023-08-20
+be83a187,Commercial,Miami,3262.0,6.0,3.0,321388.0,Available,Alexandra Velez,2024-05-31
+0be3e22a,Apartment,Seattle,4846.0,2.0,2.0,632909.0,Available,Ronald Beck,2023-06-14
+ddfe9a86,Commercial,San Francisco,1626.0,4.0,4.0,577858.0,Sold,David Booth,2024-01-05
+9399ebe9,House,Houston,3962.0,5.0,4.0,927846.0,Rented,Shannon Boyd,2023-08-18
+201bbe69,Commercial,Chicago,1395.0,3.0,4.0,174221.0,Available,Kathryn Gordon,2025-02-10
+43da6401,Commercial,Houston,658.0,6.0,1.0,300931.0,Rented,Elizabeth Parsons,2023-11-29
+c41a1802,House,Los Angeles,982.0,4.0,3.0,803894.0,Sold,Brian Wilson,2023-08-19
+41518844,Apartment,San Francisco,2336.0,5.0,4.0,435792.0,Available,Matthew Lopez,2023-04-25
+516cd65a,House,Los Angeles,1256.0,4.0,2.0,475493.0,Rented,Daniel Mercer,2024-12-22
+bc96a765,Villa,Houston,,2.0,3.0,904883.0,Rented,Ryan Silva,2023-03-26
+9515cfbb,House,Boston,1136.0,2.0,3.0,362390.0,Available,Jessica Martinez,2023-07-27
+64a1b192,Commercial,Boston,4568.0,5.0,4.0,806222.0,Rented,Christopher Foley,2023-12-18
+eb625e40,Villa,Boston,2509.0,1.0,4.0,363398.0,Sold,Emily Rodriguez,2024-06-11
+fd5def1a,Apartment,Miami,846.0,2.0,3.0,727869.0,Sold,Jessica Lopez,2024-03-26
+ab5f10a2,House,Chicago,4390.0,4.0,4.0,64152.0,Rented,Aaron Ford,2023-06-19
+4954e8c4,Commercial,Denver,4929.0,4.0,3.0,108367.0,Available,Edgar Chen,2024-05-13
+2ea337cc,Commercial,Denver,,5.0,4.0,523100.0,Available,Julia Miller,2023-12-17
+e68947f0,Commercial,Miami,,2.0,3.0,987139.0,Available,Morgan Mclaughlin,2023-03-23
+82436307,Commercial,Miami,4333.0,5.0,2.0,881192.0,Available,John Choi,2025-01-14
+b9c92e4c,House,Denver,4956.0,1.0,1.0,441394.0,Available,Breanna Williams,2023-05-27
+8217841e,Apartment,San Francisco,2459.0,2.0,2.0,510368.0,Rented,Caleb Gray,2025-01-19
+4e252cf2,Commercial,Seattle,1644.0,6.0,3.0,577553.0,Available,Zachary Cruz,2024-12-21
+45cbf01a,Apartment,San Francisco,2301.0,3.0,3.0,765204.0,Rented,Collin Nelson,2024-08-28
+fae85504,Apartment,Miami,1033.0,1.0,1.0,642406.0,Sold,Tammy Villanueva,2023-05-11
+a8cf450e,House,San Francisco,649.0,3.0,2.0,68700.0,Rented,Michele Torres,2023-04-25
+dd36ff09,Apartment,New York,3232.0,1.0,3.0,61195.0,Rented,Derek Valencia,2024-03-16
+cc6b70a4,Commercial,New York,1231.0,3.0,4.0,118771.0,Available,Lori Zimmerman,2024-01-14
+062d94c3,Villa,San Francisco,4197.0,3.0,1.0,997084.0,Sold,Eric Garcia,2024-04-26
+51b09168,Villa,New York,2916.0,4.0,3.0,990093.0,Sold,Jordan Mitchell,2023-09-13
+527ee664,Villa,Los Angeles,4135.0,5.0,1.0,609018.0,Rented,Wendy Guzman,2023-04-09
+118b2247,Villa,San Francisco,2377.0,3.0,3.0,82486.0,Available,Brenda Long,2024-07-18
+66388dfe,House,Miami,2737.0,4.0,4.0,672080.0,Rented,Michael Martinez,2024-04-25
+be635b95,Commercial,Houston,3877.0,6.0,1.0,984786.0,Sold,Jesus Rocha,2023-12-30
+e87a1747,Commercial,New York,3468.0,2.0,4.0,622890.0,Sold,Holly Carter,2025-03-02
+110b6553,Villa,Miami,1921.0,1.0,1.0,959904.0,Rented,Samuel Mason,2023-07-23
+8e2b34ed,Villa,Los Angeles,3817.0,2.0,3.0,803565.0,Sold,Charles Galvan,2024-04-18
+5f32fb6e,Apartment,Chicago,1323.0,5.0,4.0,500292.0,Available,Christine Moore,2024-07-26
+18eb367f,House,Dallas,,2.0,1.0,341029.0,Rented,Carrie Edwards,2024-10-11
+f81a262d,Apartment,Denver,4739.0,5.0,1.0,970281.0,Sold,Lisa Hamilton,2023-04-04
+34774ed3,Villa,Los Angeles,974.0,1.0,4.0,620725.0,Rented,Lisa Maynard,2024-08-22
+5873e4f1,Villa,San Francisco,3687.0,3.0,4.0,706575.0,Available,Alicia Thomas,2023-12-27
+e943a43c,Commercial,New York,2930.0,1.0,2.0,365565.0,Available,Justin Taylor,2024-02-22
+aa3c1975,Villa,Dallas,2240.0,4.0,4.0,402380.0,Available,Adam Mosley,2023-11-17
+e47ecf3f,Commercial,Denver,4236.0,3.0,1.0,905468.0,Sold,Melissa Thompson,2025-02-26
+e7b920d6,Villa,New York,3386.0,3.0,2.0,820418.0,Sold,Angela Patel,2023-04-11
+484a5fc6,House,Chicago,3730.0,4.0,4.0,259297.0,Sold,Samantha Long,2024-12-12
+16c9099d,House,Dallas,2147.0,3.0,1.0,737307.0,Available,David Lewis,2024-04-24
+fa2d10e6,House,Dallas,3215.0,5.0,1.0,828674.0,Sold,Micheal Wright,2023-07-19
+44e8f8b7,House,San Francisco,1900.0,5.0,4.0,857178.0,Rented,Maureen Williams,2024-01-27
+62e5d987,Commercial,Los Angeles,2508.0,6.0,3.0,914501.0,Available,Joshua Cooley,2023-06-28
+28724786,House,San Francisco,4124.0,1.0,4.0,672594.0,Available,Monica Myers,2024-01-02
+9be2cc37,Apartment,Denver,1754.0,6.0,4.0,993147.0,Sold,Carlos Wilson,2023-10-04
+ab427d60,Commercial,Dallas,2506.0,2.0,3.0,395451.0,Rented,Reginald Lewis DVM,2024-06-27
+170c5790,Apartment,Seattle,3731.0,3.0,1.0,68288.0,Available,Michael Hardy,2025-02-19
+b620b028,Villa,Chicago,2075.0,4.0,4.0,986915.0,Available,Keith Day,2024-05-22
+cb392db8,Commercial,Chicago,,3.0,3.0,81983.0,Sold,Steven Hull,2024-07-08
+b7486987,Apartment,Miami,3878.0,3.0,4.0,336885.0,Available,Matthew Marquez,2024-01-24
+fc0587fe,Villa,Boston,1166.0,5.0,1.0,220095.0,Rented,Peter Ball,2024-05-31
+41d2e228,Villa,Los Angeles,,6.0,2.0,197195.0,Rented,Margaret Rose,2024-09-28
+3a1131af,Commercial,Dallas,4954.0,5.0,,731132.0,Available,Todd Johnston,2024-06-11
+80754838,Villa,Los Angeles,1183.0,2.0,3.0,795020.0,Sold,Ashley Freeman,2023-07-25
+747212e1,Apartment,Miami,4769.0,,4.0,260894.0,Rented,James Perez,2024-04-16
+ad13892b,House,Denver,2939.0,3.0,4.0,219671.0,Available,Emily Ayers,2024-06-24
+adecfeaa,House,Houston,2625.0,2.0,1.0,358164.0,Rented,Zachary White,2024-02-04
+eb3a6d33,Apartment,Boston,3156.0,4.0,3.0,300719.0,Rented,Nicole Chandler,2024-05-13
+53bb7635,Commercial,Boston,922.0,1.0,3.0,683486.0,Sold,Morgan Goodman,2024-12-20
+684dc2cc,Commercial,Chicago,3465.0,4.0,,729775.0,Sold,Brian Turner,2025-01-04
+c3d653ae,Commercial,Chicago,4371.0,1.0,4.0,445885.0,Rented,Christopher Holmes,2025-03-13
+d2a19be2,House,Seattle,750.0,2.0,4.0,305718.0,Available,Melody Kelly,2023-09-06
+1afbb3cf,Commercial,Boston,3345.0,2.0,3.0,122988.0,Sold,Rachel Rivera,2024-10-05
+dca426bd,Villa,Houston,1141.0,2.0,3.0,851866.0,Available,Peter Wilson,2025-03-11
+beaf92df,Apartment,Denver,4179.0,4.0,4.0,544728.0,Rented,Christopher Hernandez,2024-03-18
+b6155a77,House,Denver,3034.0,4.0,2.0,97906.0,Available,Abigail Sullivan,2024-03-26
+9c2b6952,House,Houston,2584.0,3.0,3.0,959558.0,Available,Michael Brown,2024-03-23
+a1d2058f,Villa,New York,3114.0,2.0,2.0,618887.0,Rented,Shane Rivas,2024-07-19
+af90e0c1,Apartment,Chicago,,2.0,2.0,987462.0,Available,Sharon Tucker,2024-04-08
+3dee9759,Commercial,New York,1693.0,4.0,4.0,540767.0,Available,Heather Rojas,2024-11-21
+2aec3066,Commercial,Chicago,637.0,5.0,1.0,157200.0,Sold,Nicole Martinez,2024-04-23
+889285b8,Commercial,Denver,2457.0,4.0,1.0,203491.0,Rented,Austin Harris,2023-04-13
+b09e5297,Apartment,Chicago,1421.0,4.0,3.0,573232.0,Available,Teresa Porter,2024-02-15
+f4f9dc8f,House,New York,798.0,5.0,2.0,239475.0,Available,Christina Roberts,2024-09-13
+7efeb321,Commercial,Houston,4694.0,1.0,4.0,251825.0,Sold,Troy Mcdonald,2023-04-11
+4d0741bc,Villa,Seattle,,3.0,2.0,943710.0,Rented,Lisa Fernandez,2024-04-13
+d8896a38,Villa,Chicago,2977.0,3.0,2.0,989999.0,Rented,Amber Davis,2024-01-19
+50cbbace,Commercial,Boston,3351.0,6.0,1.0,991594.0,Rented,Lynn Williams,2024-08-06
+9801c0c0,House,Seattle,2622.0,6.0,4.0,637758.0,Sold,Danielle Clarke,2024-08-17
+cd613c51,House,San Francisco,1311.0,5.0,3.0,79206.0,Rented,Jeffrey Johnson,2023-09-04
+98ba4f7d,House,Chicago,3263.0,2.0,3.0,437116.0,Available,Sarah Nguyen,2023-06-24
+82609e2d,Apartment,Houston,3256.0,4.0,3.0,101388.0,Available,Mrs. Tracy Nelson,2024-03-02
+39a21c6f,Commercial,Denver,4566.0,2.0,2.0,527552.0,Sold,Christian Cook,2024-05-05
+1d4a79e1,Villa,Los Angeles,1828.0,5.0,2.0,908838.0,Sold,Ronald Snyder,2025-01-04
+c11b5118,Commercial,Boston,2185.0,5.0,3.0,379261.0,Rented,Jacob Hansen,2023-09-30
+7b6e694c,House,Miami,3507.0,3.0,3.0,581689.0,Available,Ryan Johnson,2023-06-19
+29ccaa03,Villa,Denver,4851.0,1.0,3.0,794165.0,Rented,Nicholas Carlson,2023-10-20
+8f715a57,Villa,Miami,4705.0,4.0,1.0,201620.0,Rented,Michael Evans,2024-06-28
+1266fc40,Commercial,Los Angeles,2205.0,5.0,2.0,81923.0,Rented,Cynthia Banks,2024-01-23
+d3cc8dc8,House,New York,4603.0,5.0,1.0,318978.0,Available,Jennifer Valdez,2024-11-10
+77dc31c4,House,Boston,,3.0,3.0,287002.0,Rented,Elizabeth Martin,2024-01-02
+eefcb92a,Apartment,Seattle,3983.0,2.0,2.0,674855.0,Sold,Edward Wilson,2024-01-23
+09398646,Apartment,Boston,939.0,5.0,1.0,746012.0,Sold,Thomas Bass,2024-11-03
+cfeae205,House,Boston,2339.0,5.0,1.0,763976.0,Available,Amanda Burton,2023-11-28
+85a45d9a,House,Boston,4146.0,1.0,1.0,,Rented,Cody Allen,2024-05-21
+fa9f7c4c,Villa,Houston,2414.0,5.0,1.0,492475.0,Rented,Zachary Whitaker,2024-06-14
+18bf8c14,House,Boston,554.0,4.0,1.0,717596.0,Rented,Michael Hamilton,2024-03-16
+3b804f7e,House,Denver,2926.0,5.0,2.0,215007.0,Rented,Lisa Porter,2024-08-09
+94d6467a,Commercial,Los Angeles,1513.0,5.0,1.0,794136.0,Sold,Dr. Brandon Andersen,2024-07-12
+528aa165,House,Dallas,,2.0,1.0,664285.0,Available,Deborah Ruiz,2024-07-08
+e02408e1,Apartment,San Francisco,3102.0,6.0,3.0,264052.0,Sold,Thomas Taylor,2024-12-12
+6d0bb8e7,Apartment,Boston,2459.0,3.0,2.0,622451.0,Sold,Maria Gaines,2023-06-04
+90a6830e,House,Seattle,2895.0,2.0,3.0,271510.0,Available,Michael Franklin,2024-12-25
+11d61690,House,Boston,2443.0,2.0,1.0,663808.0,Available,Andrew Parks,2024-02-20
+d2b2c4d9,Apartment,New York,4752.0,4.0,1.0,168600.0,Available,Christopher Scott,2023-04-02
+bfac46ec,House,San Francisco,4828.0,1.0,1.0,351360.0,Sold,Barbara Kelly,2024-03-19
+e1a00aa3,Villa,Denver,4437.0,3.0,2.0,400553.0,Available,Melissa Lopez,2023-11-24
+4092e7a4,Villa,Seattle,1229.0,2.0,1.0,309646.0,Rented,Denise Morales,2024-05-17
+87f19333,Villa,Boston,2159.0,3.0,2.0,86741.0,Available,Gregg Robbins,2024-08-02
+ac56986b,Apartment,Seattle,2910.0,5.0,1.0,598480.0,Available,Robert Schmidt,2023-04-14
+48077446,House,New York,4948.0,5.0,,972218.0,Rented,Kelly Smith,2023-03-25
+b35d69c6,House,Los Angeles,2405.0,5.0,4.0,631399.0,Sold,Emily Jenkins,2024-10-21
+c501de78,Apartment,Seattle,918.0,6.0,,822314.0,Rented,Cynthia Hill,2025-01-30
+1cc548e9,Apartment,Denver,2695.0,1.0,2.0,172732.0,Sold,Tracy Johnson,2025-03-03
+31c9af48,House,Dallas,3672.0,3.0,2.0,191490.0,Available,Kelly Kramer,2024-04-12
+9905ebd3,Commercial,New York,1586.0,5.0,4.0,299305.0,Available,David Middleton,2023-05-02
+0053cbb6,Apartment,Houston,3487.0,2.0,2.0,575714.0,Available,Brianna Young,2023-11-05
+f20ae0eb,Commercial,Houston,2609.0,4.0,2.0,597624.0,Available,Jill Huffman,2023-09-02
+e288d395,House,Houston,932.0,5.0,3.0,148354.0,Rented,Tyler Pitts,2024-02-07
+bea3d147,Apartment,Los Angeles,2596.0,,4.0,524079.0,Rented,Christine Floyd,2023-04-03
+0eedad58,Commercial,Miami,1730.0,5.0,3.0,329167.0,Rented,Caitlin Young,2023-08-02
+9faab9f0,House,Dallas,1228.0,4.0,1.0,856493.0,Sold,Jennifer Torres,2024-11-20
+3220ea61,Commercial,Los Angeles,4258.0,1.0,4.0,437800.0,Available,Mary Phillips,2024-07-28
+a8a21e51,House,Dallas,861.0,4.0,3.0,269479.0,Rented,Karl Garcia,2024-10-14
+9b2eb58b,Villa,Denver,1809.0,,2.0,147882.0,Sold,Melissa Navarro,2023-04-19
+1efc746b,House,Miami,3473.0,5.0,4.0,671710.0,Sold,Joshua Barnes,2025-01-15
+0302a332,Apartment,Dallas,1962.0,2.0,2.0,366124.0,Rented,Annette Lopez,2025-02-13
+24d81047,House,Los Angeles,2186.0,2.0,4.0,58055.0,Rented,Laura Smith,2025-01-10
+390fb2a0,Villa,Dallas,2757.0,1.0,2.0,475102.0,Rented,Thomas Stewart,2023-08-31
+34d32c04,Apartment,Houston,875.0,3.0,4.0,819102.0,Available,Jason Potter,2024-08-03
+8beb132d,Apartment,Dallas,777.0,5.0,2.0,803236.0,Rented,Garrett Vincent,2024-06-01
+07e13d88,House,New York,2896.0,1.0,2.0,164857.0,Rented,Lisa Sandoval,2024-07-20
+9e5b279f,Villa,San Francisco,859.0,3.0,4.0,773165.0,Available,Jeffrey Sanders,2024-10-13
+42b480bc,Apartment,Dallas,4598.0,5.0,3.0,,Rented,Vicki Barrera,2024-11-03
+20d3168b,Commercial,Boston,3192.0,2.0,3.0,134883.0,Sold,Angela Rice,2025-02-27
+7fc67ac0,Apartment,Denver,3403.0,3.0,3.0,107695.0,Rented,Marcus Jackson,2024-11-10
+66d58a56,Apartment,San Francisco,1851.0,2.0,1.0,923610.0,Rented,Erin Gonzales,2024-12-16
+d880f963,Apartment,New York,2493.0,1.0,3.0,803648.0,Sold,Heather Allen,2024-05-30
+d869ada6,House,Boston,3504.0,2.0,2.0,483850.0,Rented,Richard Hill,2024-05-21
+44bca8a4,Commercial,Seattle,2128.0,2.0,3.0,832290.0,Sold,Christine Hays,2024-12-17
+99ba9e0a,Villa,Dallas,2144.0,5.0,4.0,332871.0,Available,Jason Price,2023-10-08
+cb00667d,Villa,San Francisco,4621.0,6.0,3.0,355572.0,Available,Claire Alvarez,2023-04-14
+7e4be010,Villa,San Francisco,2091.0,4.0,3.0,229248.0,Available,Jenna Burke,2024-09-01
+fbfc512b,Apartment,Chicago,1662.0,5.0,3.0,,Available,Miss Jamie Knight,2025-02-12
+2fcf6b45,House,Denver,1385.0,4.0,3.0,628012.0,Available,George Murillo,2024-03-10
+05846739,Apartment,San Francisco,2867.0,3.0,4.0,870098.0,Rented,Christopher Smith,2023-06-17
+1084029c,Villa,Dallas,4643.0,5.0,3.0,822696.0,Rented,Michael Davidson,2024-11-20
+a1f488bc,Apartment,Miami,3449.0,6.0,4.0,546759.0,Rented,Charles Ramirez,2024-10-21
+12c9bc85,House,Los Angeles,3749.0,4.0,3.0,268432.0,Rented,Jordan Hall,2024-05-02
+35c6d377,Commercial,New York,2025.0,6.0,2.0,241446.0,Available,Thomas Vang,2023-12-01
+6d8b430c,Villa,Houston,2808.0,6.0,1.0,937770.0,Rented,Ray Andrews,2024-10-19
+453b96cd,House,New York,1607.0,6.0,3.0,237663.0,Rented,Sabrina Mullins,2023-09-01
+94c8ce6d,Commercial,Dallas,882.0,,3.0,688267.0,Sold,Jennifer Johnson,2024-10-13
+78a659a9,Commercial,Dallas,3694.0,6.0,1.0,526335.0,Rented,Michael Wilson,2024-05-15
+28a7d482,Villa,Dallas,3277.0,5.0,4.0,520713.0,Available,Erica Ruiz,2023-06-01
+ec3c9488,Villa,Boston,2032.0,6.0,1.0,991333.0,Sold,Kirk Sanders,2023-08-16
+a496e7bd,Apartment,Boston,2326.0,1.0,1.0,437809.0,Available,Matthew Rios,2025-02-12
+f04af1a4,House,New York,4464.0,5.0,2.0,669540.0,Rented,Wayne Rojas,2025-02-18
+fcd3338c,Villa,Chicago,3274.0,3.0,2.0,635122.0,Rented,Cynthia Sanders,2024-09-09
+66a07d27,Commercial,Houston,3781.0,4.0,2.0,478107.0,Sold,Stephen Dalton,2024-01-03
+a353a249,Villa,Seattle,1299.0,2.0,1.0,167982.0,Available,Ann House,2024-09-03
+e79661f2,Apartment,Dallas,1724.0,1.0,3.0,170984.0,Sold,Thomas Peck,2024-07-13
+60b69960,Commercial,Chicago,3906.0,5.0,2.0,582663.0,Available,Shawn Brown,2023-12-01
+c09e8fe5,House,Boston,2684.0,5.0,4.0,442659.0,Available,Sandra Mitchell,2023-12-03
+1247d178,Villa,New York,2947.0,2.0,2.0,931076.0,Rented,Michael Cooper,2025-01-16
+7cf1bf97,Commercial,Los Angeles,4359.0,3.0,4.0,911584.0,Available,Melinda Ward,2023-08-13
+97609865,House,Houston,563.0,1.0,2.0,62713.0,Rented,Joe Dickerson,2023-09-10
+b4318a1c,Villa,San Francisco,,1.0,1.0,423945.0,Available,Sheri Jones,2023-04-19
+e7357884,House,Dallas,4315.0,3.0,2.0,966160.0,Rented,James Bird,2024-07-01
+5f3fd98e,Apartment,Dallas,3748.0,,1.0,307238.0,Rented,Maxwell Morris,2024-03-07
+7e31c94a,Commercial,Chicago,1547.0,4.0,2.0,332566.0,Rented,Teresa Mckenzie,2024-02-28
+4c5b7352,Villa,Chicago,1665.0,3.0,1.0,569018.0,Available,Mark Warren,2024-04-22
+32b35f29,Villa,Denver,2540.0,3.0,4.0,764155.0,Rented,Tammie Herrera,2025-03-15
+e4c0cdef,Villa,Dallas,,6.0,1.0,918078.0,Sold,Michael Frazier,2024-10-27
+edcbf664,Commercial,San Francisco,4993.0,6.0,,336535.0,Available,Michelle Porter,2023-04-14
+55ad753a,Apartment,New York,3582.0,6.0,2.0,575482.0,Rented,Jon Watkins,2023-04-26
+5478ff50,Apartment,Houston,2752.0,4.0,4.0,82368.0,Available,Tiffany Mata,2023-08-07
+89a0007b,Commercial,Dallas,2817.0,5.0,4.0,296675.0,Sold,Adam Montgomery,2023-05-27
+91200a8d,House,New York,1140.0,3.0,,105736.0,Sold,Alison Miller,2025-02-21
+69279eee,House,Dallas,4051.0,2.0,3.0,984508.0,Sold,Brian Elliott,2023-05-10
+eb285905,Commercial,San Francisco,1457.0,6.0,3.0,668621.0,Rented,Carl Callahan,2025-01-22
+a62305a0,House,Seattle,581.0,1.0,4.0,900070.0,Available,Sharon Lopez,2023-11-25
+e1ebbde1,House,Houston,4767.0,1.0,4.0,610033.0,Available,Elizabeth Gonzalez,2024-04-10
+ca22f949,House,New York,1205.0,4.0,3.0,570205.0,Sold,Kaitlin Cox,2024-12-12
+55b4812f,Villa,Boston,1784.0,5.0,3.0,126255.0,Available,Keith Jordan,2024-07-14
+69f103f9,Villa,Dallas,2366.0,2.0,1.0,862548.0,Available,Jeremiah Kelley,2024-09-17
+7c287449,House,Denver,991.0,5.0,1.0,860182.0,Sold,Randy Sims,2023-03-21
+e88cf99d,House,Boston,3550.0,4.0,1.0,156462.0,Available,Monica Lopez,2023-08-21
+217d6907,Apartment,Denver,,1.0,1.0,291222.0,Rented,Mr. Carl Pearson DDS,2024-10-19
+512729bf,Apartment,Miami,2407.0,4.0,1.0,906186.0,Rented,Paul Herman,2023-03-23
+53765191,House,San Francisco,1320.0,6.0,4.0,951596.0,Rented,Kendra Carlson,2023-11-09
+cba82b41,Apartment,Seattle,4459.0,2.0,4.0,636887.0,Available,Kim Miller,2025-02-20
+b4ea29e2,Commercial,Seattle,4451.0,6.0,4.0,478690.0,Sold,David Bowman,2024-11-13
+8fd952ae,Villa,Houston,2991.0,4.0,4.0,,Rented,Jared Jackson,2024-03-27
+020714f7,Apartment,San Francisco,1494.0,1.0,4.0,351580.0,Sold,Eric Rivera,2025-01-11
+ac0c4cdb,Villa,New York,2749.0,4.0,4.0,511722.0,Available,Peggy Hart,2023-12-18
+9feee675,House,Seattle,3621.0,4.0,4.0,753115.0,Available,Adam Ritter,2023-12-21
+640cf1be,Villa,Seattle,1723.0,3.0,,482427.0,Rented,Chelsea Williams,2024-05-31
+6aeaacec,Commercial,Miami,2545.0,4.0,4.0,661689.0,Sold,Monica Zimmerman,2024-06-06
+096df2dd,Villa,Houston,2002.0,5.0,2.0,178149.0,Sold,Lisa Robbins,2024-11-30
+b72b6f5e,House,Seattle,619.0,3.0,1.0,110571.0,Rented,Rebecca Gaines,2024-02-13
+0b4c9176,House,New York,1026.0,2.0,4.0,349479.0,Rented,Cheryl Rodriguez,2024-09-30
+f3e22e59,House,San Francisco,1247.0,2.0,2.0,682730.0,Sold,Lisa Choi,2025-02-03
+9ea74a39,Villa,Miami,3338.0,4.0,3.0,580142.0,Available,Samantha Lopez,2024-12-17
+92c3c3ff,Commercial,Chicago,532.0,6.0,3.0,962165.0,Rented,Darlene Garcia,2024-08-11
+3eea4ec7,Villa,Denver,1944.0,5.0,4.0,733809.0,Available,Rhonda Fowler,2024-02-29
+2394f60f,House,Seattle,2333.0,2.0,3.0,322212.0,Sold,Michelle Bell,2024-01-06
+e49ec25f,Apartment,Houston,930.0,3.0,4.0,279312.0,Rented,Michelle Carey,2024-11-06
+fb1ca2ff,Commercial,Boston,659.0,1.0,2.0,337656.0,Available,Jessica Reed,2023-08-21
+7808e589,House,Seattle,1327.0,2.0,1.0,137364.0,Sold,Jennifer Acevedo,2024-05-22
+389bb7c8,Apartment,Boston,4208.0,4.0,1.0,203097.0,Rented,Todd Espinoza,2023-09-14
+41a5e4d8,House,New York,4332.0,5.0,3.0,516385.0,Rented,Robert Hebert,2024-10-17
+8cfd6a76,House,Boston,3696.0,3.0,3.0,169886.0,Rented,Ashley Johnson,2024-02-18
+6dc92cab,Apartment,Dallas,,1.0,2.0,652950.0,Available,Chad Hancock,2024-10-16
+3379a625,Commercial,Seattle,4579.0,2.0,2.0,180509.0,Rented,Jimmy Anderson,2024-09-05
+4b84a6e5,Commercial,Seattle,1754.0,5.0,2.0,727927.0,Rented,Nicholas Villarreal,2024-03-14
+0e8f25ce,Commercial,Chicago,2464.0,1.0,2.0,821819.0,Rented,Kristen Medina,2023-05-06
+f18c7ac5,House,Los Angeles,4937.0,5.0,1.0,313557.0,Rented,William Rodriguez,2024-09-22
+eec4fdd3,Villa,Miami,1096.0,5.0,2.0,590129.0,Available,Yvonne Dennis,2024-08-10
+b98a3c8c,House,Chicago,2510.0,6.0,1.0,418734.0,Rented,Vanessa Chapman,2024-10-22
+2e06a882,Apartment,Dallas,2013.0,4.0,1.0,809857.0,Rented,Brenda Glass,2025-01-12
+e7e32550,Apartment,Seattle,3968.0,4.0,1.0,363152.0,Sold,Michael Price,2025-02-03
+6bc3e544,Villa,Houston,2181.0,6.0,1.0,594608.0,Available,Felicia Medina,2023-10-31
+372f296b,Commercial,Miami,3859.0,3.0,4.0,828521.0,Sold,Susan Wilson,2024-10-21
+9763c376,Apartment,Houston,4474.0,1.0,1.0,582098.0,Rented,Philip Harvey,2024-08-09
+393e0ef1,Commercial,Los Angeles,4586.0,4.0,3.0,625394.0,Sold,Kathleen Mack,2023-10-03
+279f6810,Apartment,Miami,2877.0,6.0,1.0,840822.0,Available,Kyle Vasquez,2024-05-21
+b76eb483,Commercial,Los Angeles,3558.0,6.0,4.0,169628.0,Sold,Joan White,2023-09-17
+39605ecc,House,San Francisco,3802.0,6.0,1.0,644342.0,Rented,Steven Price,2024-08-26
+c4a662a4,Villa,Houston,1210.0,,2.0,57678.0,Sold,Justin Garcia,2025-02-04
+e344b653,Villa,Seattle,3836.0,6.0,4.0,863547.0,Sold,Willie Hurley,2025-01-28
+ef4bef09,House,Seattle,4930.0,6.0,1.0,,Available,David Reyes Jr.,2023-11-27
+beba6e6c,Villa,Los Angeles,3275.0,2.0,4.0,921065.0,Sold,Amber Mcguire,2023-11-20
+9b9a104b,House,San Francisco,675.0,6.0,,742083.0,Available,Andrew Weber,2024-03-10
+f5dba11a,House,Boston,4708.0,4.0,1.0,407097.0,Rented,Robert Nelson,2023-11-23
+a8ffc3a0,Villa,Boston,3341.0,5.0,1.0,668826.0,Rented,Amy Barnett,2025-02-15
+542db55c,Commercial,Dallas,1117.0,3.0,2.0,644485.0,Rented,Sarah Kennedy,2023-05-05
+f96955ff,House,Denver,3905.0,4.0,3.0,617693.0,Sold,Jessica Moreno,2023-05-14
+0ed71b15,Villa,Boston,2016.0,4.0,2.0,527128.0,Rented,Olivia Wilson,2024-02-21
+51c57897,Commercial,New York,542.0,1.0,2.0,170527.0,Available,Jordan Pearson,2024-02-12
+d1d6cb35,House,Denver,1814.0,6.0,4.0,977402.0,Rented,Justin Ramirez,2023-09-13
+f74cc4d5,Villa,Seattle,2077.0,2.0,2.0,387369.0,Available,Marcus Jordan,2023-12-28
+0975344e,House,Dallas,4051.0,6.0,1.0,989265.0,Available,Jason Miller,2024-03-16
+e0ab09f3,House,New York,1229.0,3.0,2.0,98374.0,Sold,Nicole Perez,2024-12-21
+9a69f106,House,Chicago,2647.0,3.0,3.0,635413.0,Available,Penny Ramirez,2024-08-31
+f883d29d,Villa,Los Angeles,3275.0,3.0,4.0,296008.0,Available,Donna Taylor,2023-10-19
+ea2f778d,Apartment,New York,4826.0,2.0,2.0,935515.0,Rented,Dawn Hernandez,2024-05-30
+64ab04cd,Commercial,Denver,2848.0,1.0,1.0,976622.0,Rented,Debra Dodson,2024-08-06
+7bee8f39,Villa,Seattle,3180.0,6.0,4.0,,Rented,Richard Delgado,2023-05-28
+7a0e8ce9,Villa,Chicago,2578.0,5.0,4.0,,Sold,Mikayla Bennett,2025-03-09
+05615fd0,Villa,San Francisco,2605.0,2.0,3.0,408319.0,Sold,Terry Stokes,2024-06-01
+dd2f92e3,House,Boston,4961.0,3.0,4.0,394742.0,Rented,Heather Myers,2024-06-04
+cb43f3e3,Villa,Chicago,1006.0,3.0,1.0,912601.0,Available,Rachel Adams,2025-01-11
+a7a5fe22,Apartment,Los Angeles,4112.0,6.0,3.0,136995.0,Sold,Michelle Saunders,2024-01-03
+5a0419eb,Commercial,Los Angeles,2322.0,2.0,1.0,51288.0,Rented,Anthony Roberts,2024-02-06
+9a380cf1,Commercial,San Francisco,863.0,5.0,4.0,599965.0,Rented,Krista Duffy MD,2023-09-20
+a372b137,Commercial,Los Angeles,673.0,1.0,2.0,908388.0,Available,John Bailey,2023-11-17
+4697b358,Villa,Los Angeles,3181.0,5.0,1.0,312569.0,Rented,Thomas Green,2024-02-20
+00c4552b,Commercial,Denver,1265.0,,2.0,96185.0,Rented,Alexis Escobar,2024-04-02
+9a2d869d,House,Los Angeles,2843.0,,2.0,682100.0,Rented,Ashley Myers,2024-03-09
+7899c6fc,House,Chicago,2088.0,6.0,2.0,424961.0,Available,Scott Kerr,2024-05-20
+08f4b71a,Commercial,New York,3809.0,6.0,3.0,376936.0,Rented,Meredith Costa,2024-12-09
+0609039d,Villa,Chicago,1434.0,5.0,1.0,185960.0,Sold,Christopher Brown,2024-11-19
+f5f3dab2,Villa,Denver,3882.0,1.0,3.0,357885.0,Sold,Vincent Smith,2024-07-03
+dbdfa8ac,Commercial,Denver,1078.0,2.0,1.0,748003.0,Available,Megan Williams,2025-03-07
+d58a97b4,Commercial,Dallas,2728.0,5.0,2.0,783179.0,Sold,Brandon Nelson,2024-11-02
+8b8839e7,Commercial,San Francisco,996.0,3.0,4.0,254674.0,Sold,Steve Frank,2024-08-20
+10475a6c,Commercial,Chicago,4637.0,2.0,3.0,728377.0,Available,Erica Williams,2024-01-02
+13ed0e8b,House,New York,,6.0,2.0,699106.0,Rented,Jacob Hoffman,2024-05-16
+54c7651f,Commercial,New York,3382.0,5.0,4.0,954358.0,Available,Danielle Lee,2023-11-16
+431264eb,Apartment,Chicago,2690.0,6.0,2.0,353517.0,Sold,Daniel Williams,2023-11-22
+2381813d,House,Dallas,4095.0,6.0,4.0,169956.0,Available,Frances Castaneda,2023-03-26
+5e2e9a54,Apartment,Seattle,3970.0,2.0,4.0,532358.0,Rented,Jerry Kim,2025-02-05
+0f153054,Commercial,Houston,2894.0,2.0,3.0,140846.0,Available,Michael Kim,2024-05-23
+fe108db7,Villa,New York,3333.0,5.0,3.0,85044.0,Sold,Michael Bryan,2023-06-23
+2d03a322,Apartment,Miami,609.0,4.0,4.0,341773.0,Sold,Mr. Derrick Spencer MD,2023-09-08
+f9f17326,House,New York,2712.0,4.0,1.0,161840.0,Sold,Alyssa Cabrera,2024-04-09
+3ed5c842,Commercial,Dallas,2688.0,3.0,2.0,419819.0,Rented,John Green,2023-05-20
+07880c0d,Apartment,San Francisco,3661.0,1.0,1.0,100924.0,Available,Debbie Nelson,2024-04-18
+95a8b972,Villa,Miami,,3.0,4.0,342148.0,Sold,Bethany Williams,2025-01-15
+58e0e02b,Villa,Seattle,2046.0,6.0,4.0,147430.0,Rented,Frank Griffith,2024-08-18
+e402f4ed,Apartment,Los Angeles,941.0,6.0,2.0,71151.0,Rented,Michelle Mendez,2024-02-03
+e3d38419,House,Denver,4505.0,1.0,3.0,930282.0,Available,Kayla Townsend,2024-05-31
+5a4d9a16,House,New York,3967.0,6.0,2.0,809804.0,Sold,Christopher Stewart,2024-03-10
+d820455a,House,Los Angeles,4251.0,,3.0,253035.0,Available,Brian Thompson,2023-06-24
+310ef895,House,Houston,1000.0,6.0,3.0,244414.0,Sold,Maria Johnson,2024-04-06
+308a172f,House,Miami,1718.0,4.0,3.0,,Available,Michael Miller,2024-12-24
+c9c9e328,Villa,Seattle,4660.0,1.0,4.0,515552.0,Rented,Steven Jones,2023-12-30
+372a2c5d,Villa,Chicago,4321.0,1.0,2.0,258972.0,Available,Kyle Brown,2023-04-05
+de7ba802,Commercial,Seattle,2957.0,2.0,3.0,112396.0,Rented,Karen Williams,2024-11-09
+8b293280,Commercial,Denver,3798.0,6.0,1.0,826538.0,Sold,Benjamin Burton,2024-06-17
+626d59ab,Apartment,Miami,1582.0,6.0,1.0,315263.0,Available,Megan Campbell,2024-03-08
+19f85c42,Apartment,Los Angeles,1528.0,5.0,3.0,930484.0,Sold,Kenneth Arellano,2023-12-09
+de1ee352,Villa,Miami,4297.0,4.0,2.0,949908.0,Available,Charles Lewis,2023-04-25
+4201dbd3,Commercial,New York,3087.0,2.0,3.0,221962.0,Available,Ricardo Greene,2024-09-15
+74dd26d1,Villa,Los Angeles,3507.0,1.0,3.0,639361.0,Rented,Drew Hernandez,2023-06-16
+4d3b095f,Apartment,Miami,2774.0,4.0,2.0,768275.0,Sold,Mary Alexander,2023-11-10
+01ef2642,House,San Francisco,665.0,2.0,1.0,941459.0,Available,Michael Turner,2023-04-05
+03490af3,House,Dallas,937.0,2.0,3.0,130522.0,Rented,Ashley Sherman,2024-12-17
+f03befda,House,Miami,842.0,4.0,1.0,570988.0,Available,Victoria Bradley,2025-01-04
+726eb696,House,Denver,1925.0,3.0,4.0,271913.0,Rented,Michelle Nelson,2024-09-02
+b11abf66,House,Boston,2846.0,3.0,2.0,967247.0,Rented,Jose Richardson,2024-03-03
+f79f917c,House,New York,3760.0,6.0,2.0,968591.0,Sold,Crystal Harper,2023-11-30
+64aeb7f1,Commercial,Houston,1131.0,1.0,3.0,960966.0,Available,Clinton Morrow,2024-02-26
+40a6d613,House,Los Angeles,1317.0,,4.0,805799.0,Sold,Lauren Reed,2023-12-29
+d33aab1d,Apartment,New York,4248.0,3.0,1.0,951764.0,Sold,Megan Walters,2024-03-03
+22514d72,Apartment,Los Angeles,2698.0,4.0,3.0,654637.0,Rented,Jonathan Wall,2025-02-25
+0af00508,Apartment,Seattle,4142.0,1.0,3.0,436280.0,Sold,Lisa Hudson,2024-01-22
+0fd32470,Commercial,Denver,1670.0,1.0,4.0,101430.0,Available,Gavin Miller,2024-05-11
+f3118cc8,Villa,Seattle,1495.0,5.0,2.0,455878.0,Available,Brian Edwards,2024-06-15
+56dea00c,Villa,San Francisco,1328.0,2.0,1.0,796232.0,Sold,John Bradford,2023-07-01
+89413140,Commercial,Boston,,1.0,2.0,693062.0,Sold,Carlos Larson,2024-03-25
+6e50bfa3,Apartment,Boston,3461.0,1.0,2.0,453032.0,Rented,Betty Ruiz,2024-03-22
+7d12908f,Commercial,Denver,2618.0,4.0,3.0,539720.0,Available,Daniel Wright,2023-05-14
+cc3d47b8,Apartment,New York,3005.0,6.0,2.0,579644.0,Rented,Mr. Jacob Gregory,2025-02-01
+a3beabe5,Villa,San Francisco,2410.0,2.0,3.0,259181.0,Sold,Tina Key,2024-03-16
+36d7ed9a,Apartment,Denver,1027.0,2.0,4.0,779030.0,Available,Laura Chavez,2024-01-08
+06194786,Villa,Boston,4504.0,1.0,2.0,436621.0,Sold,Matthew Klein,2024-12-11
+722dfc34,Apartment,New York,,6.0,1.0,851529.0,Available,Ryan Ho,2024-05-29
+401ea196,Villa,New York,1832.0,5.0,2.0,976478.0,Rented,Joshua Bush,2024-07-08
+1df77dc8,Villa,San Francisco,1977.0,2.0,4.0,85536.0,Available,Bethany Richardson,2024-01-28
+365ef456,House,Chicago,1078.0,3.0,1.0,644562.0,Available,Michelle Marquez,2024-05-08
+22717c62,Villa,Dallas,4559.0,3.0,1.0,437107.0,Available,Samantha Potter,2023-09-30
+f435ccd9,Apartment,Denver,2429.0,2.0,4.0,303619.0,Rented,Julie Fields,2024-09-27
+ff966014,Villa,Denver,2426.0,6.0,1.0,538480.0,Rented,Michael Alvarez,2023-11-30
+205b9717,House,Seattle,3022.0,5.0,2.0,521923.0,Sold,Jordan May,2023-07-25
+a2df8a6b,House,San Francisco,772.0,6.0,,406372.0,Sold,Charles Murillo,2023-05-10
+02a05d7d,Commercial,Houston,2507.0,5.0,1.0,822072.0,Rented,Jason Olsen,2024-11-29
+efbb3a3f,House,Houston,3051.0,3.0,2.0,446952.0,Sold,Kelly Brown,2025-01-20
+3f95942b,Commercial,Seattle,4209.0,6.0,1.0,630424.0,Rented,Sean Delgado,2024-11-09
+9b2b3915,Apartment,Seattle,1159.0,3.0,4.0,103315.0,Rented,Linda Alvarez,2023-09-05
+31586371,Villa,Dallas,4954.0,4.0,1.0,824275.0,Rented,Jasmine Meyer,2024-06-11
+1b75146d,Villa,San Francisco,594.0,6.0,3.0,809052.0,Rented,Molly Faulkner,2024-07-23
+00d9e75c,Villa,Miami,,2.0,2.0,576346.0,Rented,Crystal Peters,2023-09-28
+706b3d09,Commercial,Miami,2822.0,2.0,4.0,283481.0,Rented,Sabrina Stone,2024-03-19
+3504b05b,House,Dallas,4441.0,4.0,1.0,889592.0,Rented,Robert Kelley,2024-07-27
+96adb219,Apartment,Dallas,3852.0,6.0,1.0,742880.0,Rented,Tammy Carr,2023-09-08
+48a425e9,Villa,Miami,2826.0,2.0,2.0,827658.0,Sold,Karen Hall,2024-05-06
+0e550ab3,Apartment,Houston,3927.0,2.0,2.0,547273.0,Sold,Mark Bryant Jr.,2025-02-06
+c3800afc,Villa,Chicago,1716.0,1.0,1.0,408395.0,Available,Edgar Smith,2024-11-14
+6388b59b,Villa,Denver,1426.0,1.0,2.0,929881.0,Rented,Andrew Taylor,2024-05-01
+91a36812,Villa,Miami,4137.0,2.0,2.0,452000.0,Available,Karen Hughes,2024-06-03
+01af86e5,Apartment,Boston,1462.0,2.0,,603560.0,Sold,Renee Howard,2023-09-05
+2b9eab28,Villa,Houston,4339.0,2.0,1.0,141752.0,Available,Tracey Johnson,2024-03-26
+9817660c,Apartment,Boston,4681.0,2.0,3.0,211687.0,Available,Stephanie Sullivan,2023-11-10
+117047b0,Apartment,Seattle,3961.0,5.0,4.0,100973.0,Available,Brian Khan,2024-05-30
+2764e647,Villa,Denver,4145.0,5.0,2.0,690176.0,Available,Kristen Carr,2024-01-07
+a970ca2a,Villa,Chicago,2052.0,5.0,2.0,661991.0,Available,Mckenzie Brown,2024-03-17
+fbc40d74,Commercial,Miami,979.0,1.0,4.0,686800.0,Rented,Richard Williams,2023-10-27
+ebcdfa12,House,Miami,,5.0,3.0,432095.0,Sold,Willie Silva,2024-04-30
+ec5f58b2,Apartment,Los Angeles,2195.0,5.0,4.0,730758.0,Sold,Autumn Miller,2024-10-04
+a77bd1c3,House,Los Angeles,2757.0,2.0,1.0,221152.0,Sold,Wendy Guerrero,2023-05-08
+867c7512,House,San Francisco,1777.0,1.0,1.0,536676.0,Available,Rhonda Browning,2024-03-18
+87f2ce84,Commercial,Dallas,3661.0,4.0,3.0,302132.0,Sold,Peter Evans,2023-03-27
+98aca8c1,Villa,Denver,3593.0,3.0,3.0,774190.0,Rented,Ernest Evans,2024-07-27
+d19f0faa,Villa,San Francisco,2040.0,2.0,1.0,,Available,Sean Rogers,2023-03-25
+8f257127,Apartment,Dallas,2702.0,2.0,2.0,783267.0,Available,Mr. William Estrada,2024-12-24
+5883c7c3,Villa,San Francisco,,6.0,4.0,994285.0,Sold,Tracy Klein,2024-04-10
+05ea7494,Villa,Denver,,1.0,4.0,563565.0,Available,Raymond Williams,2025-01-05
+492fad2f,Commercial,Boston,4002.0,2.0,3.0,125274.0,Sold,Laura Mendoza,2024-11-09
+f628165c,Commercial,Miami,1758.0,4.0,1.0,852768.0,Rented,Sara Hanson,2023-07-13
+9ebe0c42,Commercial,Denver,3856.0,3.0,3.0,441842.0,Rented,Christopher Dennis Jr.,2024-07-24
+efd86a0f,Villa,Boston,1185.0,2.0,2.0,200380.0,Sold,Jordan Griffin,2023-05-10
+b740f265,Villa,Boston,2264.0,1.0,4.0,472048.0,Sold,Andre Bowman,2023-04-10
+e488e7bd,House,Boston,3198.0,1.0,4.0,900265.0,Rented,Heidi Stevens,2024-05-02
+4a60b20e,Commercial,Chicago,2313.0,,2.0,52400.0,Rented,Matthew Campbell,2023-09-02
+604ae240,House,Chicago,4975.0,4.0,1.0,752032.0,Rented,Tamara Leon,2023-10-16
+b1ac1605,Apartment,Miami,1307.0,3.0,2.0,791949.0,Sold,Jessica Mccormick,2024-10-06
+22fdef03,House,New York,669.0,6.0,4.0,196017.0,Sold,Ashley Pierce,2024-01-02
+b2791592,Commercial,Denver,4920.0,6.0,,297324.0,Available,Dr. Matthew Butler,2024-11-25
+ff24e1a3,Villa,Chicago,4736.0,2.0,4.0,,Sold,Matthew Burton,2024-03-30
+c952d0dc,Villa,Chicago,1362.0,3.0,1.0,694731.0,Rented,Charles Moore,2023-11-12
+5e67fa5b,House,New York,4517.0,6.0,3.0,318264.0,Available,Eileen Conner,2023-09-20
+1c6b83d0,Commercial,New York,2203.0,6.0,1.0,517651.0,Rented,Angelica Foster,2023-11-17
+82b37f49,Villa,Houston,3489.0,2.0,4.0,384819.0,Available,Kyle Lyons,2023-10-29
+80bdcffe,Apartment,Los Angeles,813.0,5.0,2.0,465084.0,Sold,Matthew Rivera,2024-06-20
+29baebe7,Villa,New York,2621.0,2.0,4.0,235207.0,Rented,Veronica Brown,2024-01-31
+36de1953,Apartment,Boston,1655.0,1.0,2.0,820986.0,Sold,Larry Lewis,2024-07-28
+3b62ae62,Villa,Los Angeles,2727.0,5.0,1.0,969048.0,Rented,Jason Boyd,2024-05-26
+0ea57c0e,House,Boston,3866.0,3.0,1.0,914321.0,Available,Peter Sanders,2023-07-08
+a1fff460,Commercial,Houston,818.0,4.0,4.0,845906.0,Available,Kathleen Stevenson,2023-06-19
+95d1cde3,Commercial,Boston,3610.0,1.0,,824601.0,Sold,Mark Ingram,2023-08-30
+7394c3af,House,Denver,653.0,2.0,3.0,490721.0,Sold,Christopher Gray,2023-05-25
+b7cb5f7f,Villa,Boston,517.0,4.0,2.0,524547.0,Rented,Mark Walker,2024-09-19
+d6efa2d0,Commercial,Seattle,2126.0,6.0,1.0,818035.0,Available,Mrs. Andrea Ramirez PhD,2024-05-04
+cd50c3fe,Commercial,Houston,3088.0,5.0,1.0,764621.0,Available,Maria Stephenson,2024-11-08
+b3bf10af,Apartment,Chicago,2169.0,2.0,1.0,507449.0,Available,Rhonda Higgins,2023-09-05
+a8b493e7,Commercial,Dallas,985.0,5.0,4.0,,Rented,Bonnie Meza,2023-10-07
+15ce1aac,Apartment,Dallas,506.0,5.0,4.0,314481.0,Rented,Benjamin Peters,2024-08-01
+e5dc806b,Villa,Seattle,1782.0,2.0,3.0,223445.0,Rented,Elizabeth Austin,2024-05-13
+f85e3deb,Commercial,New York,4208.0,5.0,3.0,746633.0,Available,Mia Smith,2024-05-10
+59adecf9,Commercial,Chicago,1439.0,3.0,3.0,87974.0,Sold,Jonathan Clark,2023-05-20
+b40bca33,Villa,Los Angeles,2507.0,4.0,3.0,829673.0,Rented,Madison Macdonald,2024-10-04
+4d46816b,Apartment,New York,1278.0,6.0,3.0,58752.0,Available,Albert Krueger,2023-09-05
+2c60cc21,House,Denver,1497.0,,2.0,118610.0,Rented,Scott King,2023-12-04
+4669e29c,Apartment,Denver,2400.0,5.0,,945169.0,Sold,Zoe Neal,2023-10-31
+d6fea631,Commercial,Boston,1146.0,4.0,2.0,492865.0,Rented,Linda Marshall,2023-12-08
+548170a7,House,Denver,1383.0,6.0,4.0,437610.0,Available,Heather Silva,2023-09-16
+ad9dabb5,Apartment,New York,4916.0,1.0,2.0,945128.0,Sold,Laura Mcguire,2023-08-31
+3b377c79,Commercial,Boston,3675.0,6.0,1.0,854173.0,Available,Gary Jones,2025-01-22
+329d9c2c,Villa,Boston,4745.0,3.0,3.0,619131.0,Rented,Karen Green,2024-05-05
+d4004ee1,Villa,Los Angeles,4873.0,,3.0,252226.0,Sold,Terri Graves,2024-08-27
+fbe5ed28,Commercial,Chicago,520.0,5.0,1.0,446138.0,Available,Christopher Chung,2024-02-14
+e6a476e7,Apartment,Seattle,1861.0,2.0,4.0,431858.0,Rented,Wendy Little,2024-02-04
+392ca128,Apartment,Miami,780.0,1.0,2.0,583877.0,Available,Mark King,2024-04-22
+5e42af09,Villa,Los Angeles,1290.0,2.0,4.0,865010.0,Rented,Laura Zimmerman,2024-01-22
+dd29e464,Villa,Los Angeles,1942.0,5.0,2.0,89231.0,Available,William Delgado,2025-01-22
+d5f7e2ae,Commercial,Boston,4051.0,2.0,1.0,381807.0,Rented,Heather Brooks,2024-04-22
+17a2259e,House,Houston,1553.0,3.0,2.0,607539.0,Rented,Kimberly Chavez,2024-02-22
+945686a7,Commercial,Los Angeles,1520.0,3.0,3.0,227915.0,Available,Rebecca Rodriguez,2023-05-05
+0018a0f3,Commercial,Los Angeles,1121.0,4.0,2.0,233205.0,Available,William Lutz,2024-04-14
+af1ff243,Apartment,San Francisco,1063.0,6.0,1.0,380436.0,Available,Heather Diaz,2025-03-15
+76fb3973,Villa,Houston,3145.0,5.0,3.0,101286.0,Sold,Michael Moreno,2024-02-11
+6f6b190f,House,San Francisco,4427.0,1.0,,459851.0,Available,Mark Morgan,2023-12-11
+674a41b3,Apartment,Boston,4944.0,6.0,1.0,573743.0,Rented,Bridget Bowman,2023-04-16
+00933b47,Commercial,Chicago,4648.0,3.0,3.0,880733.0,Rented,Wayne Hammond,2024-07-09
+5c9d2b00,Villa,Denver,3203.0,3.0,4.0,632814.0,Rented,Lee Greene,2023-05-21
+7fb6f65d,Commercial,Seattle,2691.0,5.0,,775914.0,Available,Douglas Padilla,2023-06-02
+29d58435,Commercial,Boston,2741.0,4.0,4.0,700923.0,Sold,James Cummings,2023-06-27
+21c3ffde,Villa,Dallas,4789.0,3.0,1.0,970455.0,Rented,Ronnie Young,2024-06-04
+4081dd77,Commercial,Chicago,1201.0,2.0,3.0,572546.0,Available,Phillip Reeves,2024-08-19
+c7ea4a0e,Villa,Houston,882.0,2.0,4.0,496531.0,Sold,Ronald Anderson,2023-11-28
+ecad2585,Apartment,Seattle,3571.0,2.0,1.0,199661.0,Available,Ryan Harding,2023-12-24
+bbfb380a,Commercial,Seattle,4847.0,1.0,3.0,730699.0,Available,Kevin Gonzalez,2024-09-16
+b3abd7d3,Apartment,New York,640.0,3.0,3.0,176585.0,Sold,Jason Whitaker,2023-09-06
+b6723105,Villa,New York,4965.0,4.0,1.0,491332.0,Rented,Devin Dawson,2024-06-16
+e0d680b0,Commercial,Miami,4924.0,6.0,3.0,618506.0,Sold,Christopher Brown,2024-03-22
+0955a158,Apartment,San Francisco,2605.0,2.0,,60183.0,Available,Rachel Anderson,2023-10-20
+a4558e5a,Apartment,Houston,1199.0,5.0,4.0,881777.0,Available,Kelly Smith,2025-01-13
+676a0323,House,New York,4542.0,2.0,1.0,863689.0,Available,Shirley Vazquez,2025-01-17
+69cf7640,House,San Francisco,857.0,2.0,4.0,287033.0,Rented,Erika Martinez,2023-11-27
+ee3200ff,Commercial,Boston,4298.0,2.0,2.0,294278.0,Rented,Kristen Kelly,2023-07-16
+a5cb4178,Apartment,Miami,4938.0,4.0,4.0,889812.0,Sold,Joshua Riley,2023-10-18
+eac6ce25,House,Denver,1452.0,2.0,1.0,362628.0,Rented,Nicholas Taylor,2024-10-04
+161fc3eb,House,Miami,4204.0,6.0,4.0,916273.0,Sold,Donna Mccarthy,2023-03-21
+256892c5,Apartment,Houston,1446.0,4.0,4.0,428612.0,Sold,William Taylor,2023-12-07
+c5f7a1fa,Villa,Houston,4191.0,6.0,3.0,368163.0,Sold,Margaret Grant,2024-03-14
+04c4b126,House,Los Angeles,3450.0,2.0,2.0,355565.0,Available,Jaime Davidson,2024-01-01
+bdd0e8c2,Apartment,Houston,4682.0,3.0,3.0,856225.0,Sold,Stephen Morgan,2023-04-09
+c5cf832a,House,San Francisco,1769.0,3.0,1.0,586778.0,Sold,Michael Dominguez,2023-03-19
+d7ba42bc,Commercial,Miami,1300.0,6.0,3.0,217627.0,Rented,Deborah Brock,2024-09-26
+f73ad81e,Commercial,Miami,1275.0,,2.0,496993.0,Sold,Brett Rosario,2024-01-08
+9ff7f1a4,Apartment,San Francisco,2335.0,2.0,1.0,255772.0,Rented,Lori Soto,2024-11-28
+a3dcfaa9,Commercial,Denver,1590.0,4.0,3.0,329490.0,Rented,David Johnson,2023-09-08
+836db242,Villa,San Francisco,2606.0,1.0,,285374.0,Sold,Brandon Williams,2025-01-09
+79c27c3f,Commercial,Chicago,4370.0,2.0,1.0,705831.0,Sold,Craig Walker,2023-04-01
+80a29245,Commercial,Miami,4896.0,1.0,2.0,176629.0,Sold,Jacob Roberson,2024-03-13
+892c92e8,Commercial,Dallas,4057.0,6.0,4.0,923561.0,Rented,Brandon Ochoa,2024-04-21
+71d55ba3,Commercial,Seattle,955.0,5.0,3.0,783031.0,Sold,Kara Mcgee,2024-10-03
+f667b9dd,Commercial,Boston,3437.0,3.0,4.0,812749.0,Available,Molly Dixon,2024-04-16
+6deec9ce,Commercial,Seattle,3093.0,2.0,3.0,877681.0,Available,Julia Wright,2024-06-19
+2f63d25b,House,Dallas,4135.0,4.0,3.0,686283.0,Sold,Ashley Barron,2023-08-27
+df793ca1,Apartment,Denver,4821.0,4.0,4.0,796987.0,Available,Christina Deleon,2023-09-13
+b575966c,House,Los Angeles,1860.0,2.0,1.0,347753.0,Rented,Samuel Alvarado,2024-12-10
+cc7e28d8,Commercial,Denver,1683.0,6.0,1.0,64432.0,Rented,Cody Blake,2023-12-05
+321141b5,Villa,New York,4563.0,1.0,4.0,918788.0,Available,Eric Brewer,2024-09-22
+1639e4f7,Apartment,Dallas,3835.0,3.0,2.0,720828.0,Available,Kyle Allison,2023-11-30
+76548da7,Villa,Dallas,2309.0,6.0,2.0,817778.0,Rented,Douglas Campbell,2024-05-22
+09512eb9,House,Los Angeles,903.0,2.0,2.0,758748.0,Rented,Sean Ramirez,2023-03-31
+b96c2eb4,Commercial,Houston,3331.0,4.0,2.0,845822.0,Available,Tara Wagner,2024-11-04
+1f8ec6f8,Commercial,Dallas,1656.0,3.0,2.0,304567.0,Available,Monique Ford,2024-12-31
+ceafa1c6,Commercial,Chicago,3171.0,2.0,1.0,156623.0,Sold,Laurie Taylor,2024-12-14
+94c5e861,Villa,Boston,633.0,3.0,1.0,997321.0,Sold,Christopher Flores,2024-07-27
+867d9aa2,Villa,Houston,1132.0,3.0,3.0,456285.0,Rented,Stephanie Rogers,2024-03-13
+c1d8749f,House,Seattle,3586.0,2.0,2.0,365288.0,Available,Robert Barnes,2024-12-24
+becf9c47,Apartment,San Francisco,1615.0,3.0,2.0,637268.0,Available,Yvette Gonzalez,2024-01-15
+854fe060,Apartment,Houston,3130.0,6.0,3.0,441614.0,Available,Angela Mcdowell,2023-07-10
+58e9dd0a,Apartment,Houston,3116.0,5.0,4.0,975742.0,Rented,Katelyn Johnson,2023-05-13
+6ae8cf8f,Commercial,Seattle,4627.0,2.0,2.0,616805.0,Available,Leslie Dixon,2024-06-12
+76d8f3b2,Apartment,Dallas,604.0,6.0,3.0,532122.0,Available,Robert Davies,2024-04-27
+4be07622,Villa,Denver,2338.0,6.0,4.0,471752.0,Rented,Kristen Harris,2023-12-11
+aa811092,House,Dallas,4141.0,3.0,3.0,805171.0,Available,Brian Robertson,2023-06-04
+b0929d03,Apartment,Chicago,3980.0,6.0,1.0,639315.0,Available,Susan Houston,2024-08-08
+9245a001,Commercial,Seattle,2482.0,3.0,2.0,969211.0,Rented,Kathy Flores,2023-03-30
+74c42cbe,House,San Francisco,3718.0,5.0,4.0,967625.0,Available,Monica Davis,2024-12-08
+39950704,Villa,Boston,4312.0,2.0,4.0,247449.0,Available,Alvin Gonzalez,2023-07-30
+618746a3,Apartment,Chicago,4070.0,1.0,2.0,774315.0,Rented,Lauren Terrell,2023-12-15
+06488d80,House,Seattle,,3.0,3.0,269103.0,Available,Joseph Walker,2023-09-13
+c10badab,Apartment,Seattle,3567.0,6.0,4.0,654035.0,Sold,Michael Santana,2024-06-04
+7423ca7e,Apartment,San Francisco,1603.0,,4.0,351493.0,Available,Nancy Brown,2024-06-17
+26ea159b,Apartment,Houston,1054.0,5.0,2.0,877813.0,Sold,Catherine Smith,2023-12-27
+59432aa7,Villa,Miami,628.0,5.0,1.0,300982.0,Rented,Emily Moore,2024-05-10
+2edfb3b7,House,Boston,946.0,2.0,2.0,518083.0,Rented,Maria Allen,2024-03-05
+a2534382,House,Denver,3159.0,5.0,2.0,472122.0,Rented,James Richardson,2024-12-27
+90f4eaaf,House,Denver,4247.0,2.0,,208861.0,Rented,Molly Carlson,2024-08-19
+9327c638,Villa,Houston,1567.0,,1.0,573350.0,Available,Emily Ali,2024-08-10
+b104d98f,House,San Francisco,1460.0,2.0,3.0,110496.0,Sold,David Arnold,2024-11-11
+097b1091,Apartment,Los Angeles,3789.0,4.0,4.0,587535.0,Available,Patrick Watkins,2023-09-21
+42053e6d,House,Miami,4500.0,2.0,2.0,443834.0,Available,Paul Whitaker,2023-05-29
+10a0c9a4,House,Seattle,4144.0,5.0,4.0,743030.0,Sold,Alexandra Nelson,2024-12-23
+8343379d,House,Boston,1088.0,6.0,2.0,995895.0,Available,Karen Allen,2024-05-19
+1f6d4bad,Villa,Boston,4199.0,1.0,2.0,431347.0,Sold,David Tucker,2023-12-26
+bea48b84,Villa,Houston,3276.0,5.0,4.0,906242.0,Rented,Jessica Harris,2024-11-06
+a6554e74,Commercial,Dallas,2471.0,1.0,2.0,787563.0,Available,Nathan Anthony,2024-05-24
+5b8827ac,Apartment,Houston,4290.0,6.0,4.0,77408.0,Sold,Courtney Shaw,2024-06-06
+9f8fa567,Commercial,Boston,1940.0,3.0,2.0,143178.0,Rented,Shannon Diaz,2024-02-04
+27c064a0,Apartment,Chicago,2878.0,5.0,3.0,504257.0,Rented,Caleb Duke,2023-08-06
+a68a671b,Commercial,Denver,888.0,1.0,3.0,491437.0,Rented,Stephanie Davis,2023-09-23
+fb2ea406,Commercial,Miami,809.0,1.0,3.0,556845.0,Available,Dennis Clarke,2025-01-16
+6a00154c,Commercial,Houston,2246.0,3.0,4.0,918658.0,Available,Michael Jennings,2024-07-11
+a2b2450a,Villa,San Francisco,2486.0,2.0,1.0,323157.0,Available,Dr. Michelle Gregory,2023-04-05
+0015602d,House,Seattle,3877.0,2.0,1.0,165012.0,Sold,Ian Walker,2024-10-10
+55863180,Apartment,Chicago,748.0,3.0,4.0,410117.0,Sold,Danielle Hill,2023-07-30
+e317f449,House,Boston,2154.0,3.0,3.0,96389.0,Sold,Annette Tucker,2024-11-10
+5fe17036,Villa,Los Angeles,4206.0,4.0,3.0,333229.0,Sold,David Peterson,2023-03-29
+e191f501,House,Houston,3397.0,4.0,2.0,395810.0,Rented,Mr. Troy Allen,2024-01-20
+88e52efd,Apartment,Los Angeles,4962.0,1.0,4.0,142097.0,Sold,Laura Church,2024-04-21
+70849523,House,Seattle,1237.0,1.0,4.0,786559.0,Available,Brent Caldwell,2023-10-28
+13ecfb04,Apartment,Denver,,3.0,3.0,599373.0,Available,Dawn Fuller,2024-10-05
+7aaf4b91,Apartment,Dallas,927.0,1.0,3.0,967346.0,Sold,Eric Wilson,2023-11-28
+3261e2ea,House,Chicago,1280.0,2.0,4.0,805711.0,Sold,Geoffrey Kent,2024-08-18
+6cb54fbd,House,Chicago,,5.0,1.0,415780.0,Rented,Janice Harris,2024-06-12
+a6f16dcf,Apartment,Seattle,1227.0,1.0,2.0,684064.0,Sold,Kathy Davis,2024-10-20
+d39ff619,Villa,Boston,725.0,2.0,2.0,772256.0,Rented,Wesley Martin,2023-06-12
+bdde839b,Apartment,Boston,3289.0,3.0,3.0,407754.0,Available,Jennifer Gilbert,2024-09-29
+60e40227,Villa,Houston,2513.0,2.0,1.0,987678.0,Available,Amber Stanley,2024-05-24
+1a8291aa,Commercial,Boston,1188.0,6.0,2.0,446293.0,Sold,Eric Anderson,2023-12-07
+cf4a5230,Commercial,Boston,501.0,,4.0,246868.0,Sold,Brittney Knapp,2024-09-17
+b3249f91,Commercial,Houston,1945.0,3.0,2.0,509866.0,Sold,Dawn Osborn,2023-10-16
+fafa27eb,House,Chicago,2749.0,5.0,2.0,243003.0,Sold,Matthew Hoffman,2024-09-26
+408ed0c9,Villa,Denver,,2.0,,154021.0,Rented,Dana Bolton,2024-12-23
+50f48788,Apartment,Dallas,1230.0,5.0,4.0,243468.0,Rented,Michael Reed,2025-01-13
+3f0511a8,Apartment,Dallas,4785.0,1.0,1.0,563137.0,Rented,Rebecca Norris,2025-01-07
+94a18ed8,Apartment,Chicago,785.0,6.0,4.0,601784.0,Sold,Dillon Alexander,2024-12-22
+75bce0b9,Villa,Houston,4776.0,6.0,1.0,309732.0,Sold,Rachel Sullivan,2024-05-05
+3f45c045,Apartment,New York,2836.0,6.0,2.0,750590.0,Sold,Janet Woods,2023-09-08
+8ed4fee6,Commercial,New York,4307.0,4.0,1.0,735795.0,Sold,David Torres,2024-09-29
+3152953e,Apartment,Chicago,3607.0,4.0,2.0,407922.0,Sold,James Murray,2025-01-29
+33e67cae,Commercial,Denver,4214.0,3.0,4.0,594454.0,Rented,Cassandra Delgado,2024-12-09
+35bf42fc,Villa,Seattle,849.0,3.0,2.0,510543.0,Sold,Jacqueline Reyes,2023-12-05
+1511c050,Apartment,Seattle,583.0,6.0,1.0,732058.0,Sold,Alexis Kennedy,2025-03-14
+67c21bbc,Apartment,Chicago,,5.0,2.0,128483.0,Available,Gloria Greene,2024-02-08
+2b143c40,Apartment,Denver,513.0,5.0,1.0,989714.0,Sold,Katherine Carrillo,2025-02-25
+5641d2ed,House,Miami,4625.0,4.0,4.0,64213.0,Available,Tammy Cruz,2023-12-03
+5ae2f8ad,Villa,Seattle,4837.0,3.0,1.0,299302.0,Sold,Devin Brown,2023-07-18
+e399edb5,Villa,Houston,3653.0,1.0,4.0,318836.0,Sold,Patrick Howard,2024-04-17
+b5823f56,Commercial,Denver,3343.0,3.0,,313822.0,Rented,David Hall,2024-09-22
+64dfbb05,Commercial,Chicago,3856.0,1.0,4.0,159457.0,Available,Anthony Miller,2025-03-15
+1236dd99,House,Miami,4269.0,1.0,2.0,801506.0,Available,Kelly Austin,2024-03-24
+dd1796c1,Villa,Denver,4636.0,3.0,1.0,222622.0,Available,Robin Craig,2025-03-07
+f3f0c410,House,Seattle,,5.0,4.0,65839.0,Available,Evan Oconnell,2024-11-07
+f77f5a3f,Apartment,Los Angeles,2871.0,2.0,4.0,127733.0,Rented,Beverly Newman,2024-11-02
+3e196d24,Commercial,Boston,4925.0,1.0,3.0,876916.0,Rented,Mr. Robert Lara,2025-02-14
+930a3bef,House,Seattle,3233.0,1.0,2.0,53070.0,Available,Trevor Smith,2023-06-22
+610f412c,Apartment,Miami,2367.0,3.0,4.0,338910.0,Available,Richard Hurley,2024-11-07
+c6f08696,House,San Francisco,,4.0,3.0,203061.0,Rented,Abigail Orr,2024-02-07
+9d7ed990,Commercial,New York,773.0,4.0,1.0,763612.0,Available,Melissa Stanley,2023-06-19
+a24bfdd6,Villa,Los Angeles,1605.0,4.0,2.0,572888.0,Available,Joel Dean,2023-05-22
+6ed8c88f,Commercial,San Francisco,4394.0,4.0,1.0,211782.0,Rented,Julie Bowman,2023-06-21
+4672c996,House,New York,3912.0,1.0,4.0,181950.0,Available,Cindy Lopez,2023-05-30
+ad032df4,House,Chicago,1712.0,5.0,2.0,733827.0,Available,Kim Middleton,2024-06-18
+91cb625a,Villa,Los Angeles,4998.0,5.0,3.0,164145.0,Sold,Andre Black,2023-07-02
+9ca40b11,Villa,Chicago,,5.0,4.0,275266.0,Available,Shannon White,2025-03-10
+65d39f43,Apartment,San Francisco,4354.0,1.0,2.0,922683.0,Rented,Jody Thomas,2024-07-12
+99cfa4b2,Villa,Miami,4972.0,2.0,3.0,142976.0,Sold,Rebecca Sawyer,2025-02-12
+01605471,Apartment,Miami,4278.0,6.0,1.0,551958.0,Available,David Terry,2024-04-10
+c7a9387f,Villa,New York,4304.0,1.0,1.0,460751.0,Rented,Mr. Philip Jones,2023-04-07
+7e5e12f2,House,Miami,2180.0,5.0,3.0,500747.0,Available,Gloria Green,2024-09-02
+16366b81,Apartment,Seattle,1554.0,4.0,4.0,81308.0,Available,Steven Kelley,2025-03-08
+e9286778,House,Denver,1625.0,2.0,1.0,560123.0,Rented,Beth Benjamin,2024-12-31
+4c99a272,Apartment,Seattle,1858.0,6.0,4.0,163054.0,Rented,Melissa Eaton,2023-10-17
+7fc83885,Apartment,Seattle,1278.0,6.0,2.0,865319.0,Sold,Nathan Cummings,2024-07-03
+313e9e3c,Commercial,San Francisco,3997.0,3.0,1.0,551654.0,Available,Meghan Francis,2023-04-17
+7f635066,House,Seattle,3426.0,2.0,1.0,181591.0,Available,David Zamora,2024-02-06
+ec211b53,House,Chicago,887.0,5.0,2.0,533288.0,Sold,Casey Mays,2023-07-15
+f59b53a1,Apartment,New York,3671.0,6.0,4.0,458960.0,Rented,Christian Austin,2025-01-07
+98da3704,House,Chicago,4448.0,6.0,1.0,305603.0,Sold,Tyler Wise,2024-08-08
+6d2eeb05,Villa,New York,1204.0,1.0,3.0,90144.0,Rented,Jessica Johnston,2024-10-24
+650af4b4,Commercial,New York,1149.0,2.0,1.0,378726.0,Available,Christopher Carpenter MD,2023-06-25
+591dd1b0,Villa,New York,3566.0,5.0,4.0,142678.0,Sold,Jennifer Stewart,2023-03-23
+8832aced,House,Dallas,2404.0,6.0,4.0,785109.0,Rented,Jennifer Gilbert,2024-12-13
+c6b4624f,Commercial,Los Angeles,3331.0,4.0,1.0,264836.0,Available,Jason Williams,2024-09-08
+33cad875,Apartment,Dallas,4569.0,2.0,3.0,419573.0,Rented,Christina Cantu,2023-09-23
+d4da1b22,Villa,Houston,4071.0,1.0,4.0,859532.0,Rented,Alexa Edwards,2025-02-04
+2f2fd8bb,Apartment,Chicago,2232.0,4.0,3.0,893825.0,Rented,Peggy Wilson,2023-05-17
+ae8f05f6,Apartment,Dallas,668.0,6.0,3.0,847429.0,Sold,Jonathan Schaefer,2024-12-29
+eae8933b,Commercial,Boston,2207.0,3.0,4.0,307428.0,Available,Jeffrey Brown,2023-05-30
+ec0847ea,House,Seattle,4118.0,4.0,2.0,588415.0,Sold,Kimberly Brewer,2024-03-31
+aa11e8ee,Villa,Miami,2334.0,2.0,3.0,154918.0,Available,Robert Lopez,2025-03-09
+1faf6af2,Commercial,Houston,2303.0,2.0,,220881.0,Rented,Keith Roberts,2025-01-04
+702144c5,House,Boston,,3.0,2.0,882689.0,Sold,Jennifer Gonzalez,2024-02-05
+b9e66ffd,Commercial,Boston,2535.0,3.0,2.0,824568.0,Rented,Traci Johnson,2024-02-27
+d4575266,Commercial,Chicago,1381.0,4.0,3.0,456348.0,Sold,Cindy Perez,2024-01-21
+f617ca0b,Apartment,Seattle,2466.0,6.0,4.0,528271.0,Available,Natasha Carter,2024-04-17
+eaa18c65,Commercial,New York,2641.0,5.0,4.0,851573.0,Available,Andrew Jones,2024-02-04
+ddff84f4,House,Boston,1563.0,2.0,4.0,483825.0,Available,Sophia Garrett,2024-11-13
+5696a451,Apartment,Seattle,1650.0,4.0,,91630.0,Rented,Andrea Cook,2023-07-10
+bf776303,House,Dallas,2264.0,6.0,3.0,825838.0,Rented,Ryan Pena,2024-08-25
+90fe03a3,Apartment,Denver,3356.0,3.0,2.0,950509.0,Sold,John Jackson,2024-10-26
+890b7b13,Commercial,Seattle,4872.0,4.0,2.0,180015.0,Sold,Angela Stokes,2024-09-15
+48ae1a4c,Apartment,Denver,3375.0,3.0,2.0,172350.0,Sold,Eric Tucker,2023-07-01
+27352d5d,Villa,Denver,1019.0,1.0,3.0,80261.0,Available,Elizabeth Craig,2024-03-06
+b2036a91,House,Seattle,1255.0,2.0,4.0,716008.0,Sold,Teresa Ramos,2024-11-22
+09b6defe,Villa,San Francisco,1319.0,4.0,2.0,412162.0,Sold,Abigail Herman,2024-09-09
+250bdcb9,Commercial,Boston,1959.0,2.0,2.0,846155.0,Available,Marisa Tate,2023-07-19
+d3f6fdfa,House,Chicago,3087.0,3.0,4.0,536993.0,Sold,Brian Cooper,2024-07-20
+fb0999b8,Villa,Boston,3410.0,4.0,1.0,96427.0,Rented,Leah Evans,2023-12-07
+03432b1a,Villa,New York,2001.0,6.0,3.0,379021.0,Sold,Robert Brown,2024-12-03
+fd238579,Apartment,New York,667.0,4.0,3.0,122117.0,Sold,Amber Woods,2023-04-21
+5393b7cc,House,Chicago,939.0,1.0,4.0,709449.0,Rented,Carlos Shelton,2024-01-06
+12fcda76,Apartment,Miami,2000.0,4.0,1.0,215254.0,Available,Eric Anderson,2023-06-02
+ff4a636e,House,New York,3514.0,1.0,3.0,578932.0,Sold,Kara Brown,2025-02-11
+b815cd8d,Apartment,Seattle,1809.0,3.0,3.0,304970.0,Sold,Tara Sanchez,2023-07-05
+d8260c37,Commercial,Houston,813.0,2.0,3.0,621083.0,Available,Eric Davis,2025-02-13
+81cc4105,Villa,San Francisco,4500.0,3.0,2.0,479745.0,Sold,Brooke Richardson,2023-09-29
+67a27014,Villa,Seattle,3503.0,4.0,2.0,493443.0,Rented,Karen Phillips,2024-11-24
+3144bf8d,House,Houston,3546.0,3.0,2.0,947153.0,Rented,Scott Swanson,2023-12-21
+da5876d3,House,Houston,1454.0,2.0,4.0,712055.0,Rented,Robert Marshall,2023-10-06
+624a2098,Apartment,Chicago,2013.0,2.0,4.0,378350.0,Sold,Brandy Kim,2024-08-23
+dfcc989c,Commercial,Seattle,2588.0,1.0,1.0,859478.0,Sold,Robert Barnett,2023-07-04
+6e2ad69d,House,Denver,1227.0,3.0,3.0,863873.0,Rented,Michael Ramsey,2025-01-05
+7449f583,House,New York,,1.0,3.0,262180.0,Rented,Robert Holden,2023-04-10
+70559164,House,Seattle,863.0,1.0,,276212.0,Sold,Monica Moore,2024-02-15
+2da1a121,Apartment,Denver,2386.0,2.0,2.0,681548.0,Rented,Tara Ferguson,2023-05-12
+c8003640,House,Miami,3492.0,6.0,1.0,289391.0,Available,Paul Larsen,2024-04-17
+68195cde,Apartment,Dallas,3622.0,5.0,3.0,397183.0,Rented,Jennifer Rivera,2024-01-16
+50fd8f36,Villa,Dallas,4662.0,2.0,1.0,390664.0,Rented,Megan Taylor,2024-04-01
+c95197c1,Apartment,Chicago,4346.0,1.0,2.0,713736.0,Available,Kelly Johnson,2023-09-28
+aad2d80a,Commercial,Dallas,3398.0,2.0,2.0,117418.0,Rented,Robert Gross,2025-02-13
+9ec687c7,House,Los Angeles,2622.0,3.0,1.0,257802.0,Sold,Lisa Lynn,2024-12-23
+a7570558,Villa,Dallas,4901.0,3.0,2.0,238958.0,Available,Jamie Yoder,2024-11-04
+14b85edf,Villa,New York,638.0,5.0,2.0,284900.0,Sold,Pamela Banks,2023-08-13
+03609d33,Commercial,Dallas,2405.0,1.0,,259006.0,Available,Ashley Johnson,2024-06-19
+d4b81e9a,Villa,Los Angeles,2748.0,2.0,3.0,644765.0,Sold,Jamie Martinez,2023-07-11
+91e29dd7,House,Seattle,2975.0,2.0,1.0,353666.0,Sold,Jamie Smith,2024-10-18
+e51d60e1,Villa,San Francisco,3395.0,3.0,,911760.0,Rented,Cindy Matthews,2024-10-29
+4ea446b6,Commercial,Denver,3800.0,4.0,4.0,81360.0,Available,Molly Jackson,2023-05-24
+e2a85251,Villa,Seattle,,4.0,3.0,712346.0,Sold,Crystal Wood,2024-07-13
+de09b00e,Commercial,Dallas,2849.0,6.0,4.0,91002.0,Available,Robert Crawford,2023-05-17
+7cc517fe,Commercial,Dallas,4795.0,2.0,1.0,516698.0,Rented,Donna Herring,2024-09-02
+49231fc2,Villa,Miami,1597.0,3.0,4.0,346991.0,Available,Kyle Edwards,2024-10-26
+5d459361,Commercial,Los Angeles,1086.0,2.0,3.0,265337.0,Rented,Brandy Graves,2024-10-12
+54825102,Villa,San Francisco,1774.0,1.0,,328249.0,Sold,Sarah Davidson,2024-11-18
+052afe15,Villa,Los Angeles,4948.0,5.0,3.0,718630.0,Available,Tamara Smith,2023-06-13
+d8a367a1,House,Dallas,4129.0,,1.0,233544.0,Available,Angela Williams,2023-07-17
+808b070e,Apartment,New York,3810.0,5.0,1.0,120006.0,Available,Jonathan Huynh,2024-01-25
+a3940a09,Commercial,Chicago,3287.0,3.0,2.0,705616.0,Rented,Crystal Franklin,2024-01-03
+b1298c80,Commercial,San Francisco,3011.0,6.0,2.0,878151.0,Available,Angela Thomas,2024-07-19
+e5292e68,Commercial,Miami,2706.0,,2.0,536255.0,Rented,Troy Haynes,2023-07-01
+71becd32,Commercial,Denver,2422.0,6.0,3.0,920102.0,Rented,Hunter Holt,2024-05-15
+67e2bfc6,Commercial,Houston,3768.0,2.0,2.0,919255.0,Available,Diana Hunt,2023-05-16
+d1a3752f,Villa,Boston,1500.0,6.0,3.0,334796.0,Rented,Ashley Webb,2024-09-10
+ebb1ef8b,Commercial,Miami,853.0,4.0,4.0,658454.0,Rented,George Kennedy,2024-04-26
+9e49d5e8,Commercial,Denver,1152.0,4.0,2.0,791644.0,Rented,Thomas Porter,2025-01-03
+abf361d8,Apartment,Seattle,2408.0,6.0,3.0,68894.0,Rented,Joshua Petersen,2023-10-30
+11b55073,Villa,Seattle,598.0,5.0,3.0,970578.0,Available,Amy Williamson,2023-09-13
+f1494a7d,Villa,Denver,3036.0,3.0,2.0,755935.0,Rented,Taylor Peters,2024-06-26
+bec36820,House,Seattle,3217.0,2.0,1.0,142276.0,Rented,Nicole Clark,2024-06-18
+6e551c96,Commercial,Los Angeles,3654.0,5.0,4.0,689639.0,Available,Tammy Hall,2024-08-20
+f5a2eacf,Commercial,Chicago,955.0,4.0,4.0,214955.0,Available,Michael Chang,2023-07-06
+f52d2ed6,Villa,Miami,3907.0,2.0,4.0,243307.0,Sold,Jon Griffin,2024-09-08
+910c0aa6,House,Seattle,2181.0,4.0,4.0,215697.0,Available,Nicole Ellis,2023-04-01
+09a9fe94,Apartment,Miami,3667.0,5.0,3.0,688053.0,Rented,Audrey Dickerson,2023-12-19
+e6cd5553,Villa,San Francisco,3543.0,,1.0,552710.0,Rented,Lisa Smith,2024-08-12
+317f6ea3,Commercial,Miami,3824.0,6.0,1.0,409521.0,Rented,Scott Thomas,2025-01-05
+5416715f,Apartment,Miami,3701.0,5.0,2.0,184701.0,Rented,Renee Jones,2024-12-24
+cc83a8f9,Apartment,Houston,2617.0,1.0,1.0,263732.0,Available,Wendy Johnson,2024-03-25
+859c587f,Villa,San Francisco,3353.0,5.0,1.0,171940.0,Sold,Jocelyn Johnston,2024-10-15
+463afd80,Apartment,Boston,4289.0,6.0,4.0,988368.0,Available,Paul Mcintyre,2024-05-21
+b890652a,Apartment,Dallas,850.0,6.0,4.0,149109.0,Sold,Olivia Smith,2024-07-10
+a3ecd15a,Commercial,Miami,3225.0,2.0,3.0,411439.0,Rented,Becky Davis,2025-02-23
+2ad63c1d,House,San Francisco,2178.0,1.0,3.0,755243.0,Available,Beth Santos,2024-05-11
+351d0b2f,House,Houston,4017.0,4.0,4.0,382649.0,Sold,Eric Rose,2024-12-15
+1b57c94a,Apartment,Miami,1244.0,3.0,2.0,600483.0,Rented,Vincent Sandoval,2023-05-01
+23aa09a0,Apartment,Seattle,2244.0,,2.0,813370.0,Sold,Joseph Mckinney,2024-08-08
+acdd06f0,Villa,Chicago,2936.0,,1.0,342800.0,Available,Samantha Stafford,2023-09-23
+7de6145f,Apartment,Houston,3246.0,5.0,2.0,178316.0,Available,Sara Porter,2024-03-27
+2d84e5be,Commercial,Boston,2139.0,6.0,,611144.0,Rented,Karen Garrett,2023-08-24
+9f9cd7f7,Apartment,Seattle,1198.0,2.0,3.0,593071.0,Rented,Rebekah Cantrell,2024-07-05
+6844dc67,Villa,San Francisco,1269.0,3.0,3.0,84729.0,Rented,Dr. Christopher Taylor,2023-05-27
+5e2276d3,Villa,Miami,4817.0,3.0,4.0,966827.0,Rented,Mrs. Brianna Haley DVM,2024-12-06
+97f397f9,House,Boston,853.0,2.0,3.0,196829.0,Available,John Simmons,2025-01-21
+3df39473,Villa,Miami,4090.0,4.0,3.0,844478.0,Available,Andrea Case,2025-02-09
+62dfe404,Villa,New York,4787.0,4.0,2.0,930932.0,Rented,Rebekah Villegas,2023-07-15
+78a3f185,House,New York,1543.0,3.0,1.0,167598.0,Sold,Victor Larson,2024-01-26
+464114fc,Commercial,Chicago,625.0,6.0,4.0,902815.0,Available,Rebecca Thomas,2024-12-04
+3deadf64,Commercial,Seattle,2507.0,5.0,4.0,439672.0,Rented,Christina Black,2023-08-28
+8e953207,Villa,San Francisco,3918.0,5.0,2.0,250608.0,Sold,Julia Bryant,2024-03-19
+f4e8af3c,Villa,Chicago,2027.0,,4.0,902850.0,Rented,Lacey Greer,2023-05-17
+b336db97,Apartment,Dallas,1550.0,5.0,3.0,968783.0,Rented,Sara Ruiz,2024-06-03
+652a45d7,Apartment,New York,1635.0,4.0,4.0,349693.0,Available,Christina Castro,2023-06-22
+87770bb6,Commercial,Chicago,3442.0,2.0,2.0,366757.0,Sold,Maria Garcia,2024-11-03
+bded4d2f,Apartment,Denver,998.0,6.0,3.0,369183.0,Rented,Lisa James,2024-11-21
+974c9ec1,Commercial,San Francisco,3565.0,5.0,1.0,276042.0,Available,Rebecca Rogers,2023-10-29
+097bf3cc,Villa,Boston,558.0,1.0,1.0,460594.0,Sold,Douglas Willis,2024-10-19
+7a505fef,Villa,Seattle,1142.0,1.0,2.0,722727.0,Rented,Edward Wood,2023-05-02
+06afd9e9,Commercial,Denver,1214.0,5.0,1.0,903635.0,Sold,Ronald Rogers,2024-12-25
+10eb9f9d,Villa,Dallas,2895.0,,4.0,105252.0,Sold,Colleen Day,2023-10-15
+49bc5636,Villa,Houston,2854.0,2.0,4.0,,Sold,Michelle Hubbard,2023-08-09
+f6915153,House,Chicago,513.0,2.0,1.0,912736.0,Available,Howard Daniels,2024-02-01
+632e0d4c,Commercial,Los Angeles,,3.0,3.0,631032.0,Available,Melissa Brooks,2024-10-23
+695b48fa,Villa,New York,2609.0,5.0,1.0,949714.0,Rented,Rachel Baker,2025-03-04
+bdc97404,House,Chicago,815.0,2.0,4.0,971771.0,Sold,Timothy Clark,2023-06-28
+578ff595,Villa,San Francisco,2586.0,4.0,2.0,870576.0,Sold,Tara Thomas,2023-10-02
+6471909a,Apartment,Miami,2841.0,4.0,3.0,439298.0,Sold,Jamie Smith,2024-11-05
+c8a4e505,Villa,Los Angeles,536.0,2.0,2.0,365023.0,Rented,Erin Perez,2024-12-01
+689c8d09,Apartment,Houston,983.0,1.0,2.0,234956.0,Available,Ian Hernandez,2025-02-11
+7ca27310,House,Seattle,1601.0,4.0,1.0,823224.0,Available,Curtis Sosa,2023-12-20
+a9fe4927,House,Chicago,2244.0,3.0,2.0,532993.0,Rented,Nichole Miller,2024-12-16
+f347f1e3,Villa,Boston,4084.0,6.0,2.0,158907.0,Rented,Chase Rivera,2024-08-26
+867ef42f,Villa,Boston,1074.0,6.0,1.0,522243.0,Available,Cynthia Freeman,2024-09-23
+bbcd5492,Apartment,Houston,3198.0,4.0,3.0,822254.0,Rented,Meagan Friedman,2024-02-20
+9f4f471e,House,Miami,3461.0,5.0,1.0,388453.0,Rented,Carol Cross,2023-05-17
+f93caa06,Commercial,Houston,4061.0,4.0,2.0,91447.0,Available,Kenneth Calderon,2024-10-21
+36a9abfb,Apartment,Houston,891.0,5.0,1.0,345402.0,Sold,Zachary Salazar,2025-01-06
+078c7bbb,Commercial,Denver,1496.0,3.0,4.0,376705.0,Sold,David Cunningham,2023-10-06
+b1f623fe,Apartment,Miami,3667.0,4.0,3.0,486525.0,Rented,Autumn Robinson,2023-08-07
+a424be70,House,San Francisco,4208.0,1.0,4.0,161612.0,Available,Christopher Travis,2024-02-27
+d4966717,House,Miami,2047.0,4.0,4.0,703705.0,Sold,Jonathan Morrow DDS,2023-10-27
+20846b6d,Villa,Denver,4583.0,3.0,4.0,400488.0,Available,Stephanie Lewis,2024-08-21
+a5712e45,Commercial,Los Angeles,3764.0,6.0,2.0,281313.0,Sold,Christopher Adkins,2023-09-20
+ceffebb7,House,Denver,1183.0,4.0,,889517.0,Available,Anthony Kim,2024-12-02
+c088719c,Commercial,Denver,4501.0,5.0,2.0,625284.0,Rented,Heather Perry,2024-07-18
+492c8dda,Commercial,Los Angeles,2565.0,6.0,2.0,517941.0,Sold,Jennifer Welch,2024-04-09
+07719d2b,Commercial,Chicago,3761.0,,4.0,656343.0,Rented,John Lopez,2023-11-10
+5824af48,Apartment,Chicago,2860.0,2.0,4.0,673266.0,Available,Linda Bray,2024-01-23
+2ec731de,Villa,Denver,3900.0,6.0,1.0,893236.0,Available,Rhonda Snyder,2024-08-13
+f3d0fd35,Apartment,Chicago,2229.0,6.0,1.0,645346.0,Rented,Ryan Campbell,2024-02-18
+57dfc538,Commercial,Miami,2181.0,1.0,2.0,398837.0,Sold,Morgan Brown,2023-07-28
+e2cbdb62,House,San Francisco,1569.0,1.0,1.0,751647.0,Available,Cynthia Gilmore,2024-01-22
+7b4abe3a,House,New York,1682.0,1.0,2.0,426083.0,Available,Melissa Jones,2023-06-18
+e232f9ec,Apartment,San Francisco,1912.0,3.0,1.0,142134.0,Rented,Christopher Baldwin,2023-10-09
+038f9b13,Villa,Los Angeles,2495.0,1.0,1.0,94761.0,Available,Kevin Roberts,2024-03-13
+b6169dfd,Commercial,Dallas,808.0,4.0,3.0,129821.0,Sold,Christopher Cohen,2023-11-02
+d0c4619a,House,Denver,4142.0,5.0,4.0,165181.0,Sold,Katherine Hayes,2023-09-16
+adaca79a,House,Denver,4504.0,1.0,3.0,764966.0,Available,Michael Martin,2025-01-18
+91f3da46,House,Houston,2949.0,4.0,1.0,918179.0,Available,David Byrd,2023-06-10
+85e57964,Apartment,Houston,1428.0,1.0,2.0,700553.0,Rented,Laura Dean,2024-05-28
+20a52566,Commercial,Denver,,1.0,2.0,298317.0,Rented,Joshua Mckee,2024-10-16
+da883755,Commercial,Miami,4675.0,5.0,4.0,379157.0,Sold,Sean Kennedy,2025-02-22
+e2b22de1,Commercial,Seattle,2728.0,2.0,1.0,368718.0,Available,Ryan Diaz,2024-06-14
+a9a60713,Apartment,Miami,989.0,4.0,2.0,293088.0,Rented,Erin Jensen,2024-12-03
+7bc7d36c,House,Chicago,4408.0,5.0,3.0,371159.0,Sold,Jessica Smith,2023-11-25
+3531337d,Apartment,New York,4722.0,5.0,4.0,143135.0,Available,Amber Cunningham,2024-02-28
+9dc25b90,House,Seattle,3053.0,4.0,4.0,913108.0,Rented,Sarah Solis,2025-02-24
+83c91811,Apartment,Chicago,3516.0,6.0,2.0,937286.0,Sold,Chase Sellers,2024-08-01
+a06ea67a,Commercial,Denver,4703.0,4.0,3.0,217908.0,Rented,Tracy Jackson,2025-03-05
+0445acbf,Apartment,Dallas,2884.0,5.0,3.0,166731.0,Available,Samantha Davis,2024-01-10
+30a69e04,Villa,Seattle,614.0,5.0,2.0,750886.0,Available,Sheryl Soto,2023-06-13
+22391d1a,Apartment,Miami,,6.0,3.0,287942.0,Available,James Wells,2023-06-05
+a9a49cfd,Villa,Miami,4942.0,3.0,3.0,883200.0,Rented,Jennifer Gilbert,2023-07-04
+818276de,Apartment,New York,867.0,2.0,3.0,893223.0,Rented,Glenn Tyler,2023-10-25
+61e48387,Villa,Dallas,1753.0,6.0,3.0,99158.0,Available,Anthony Armstrong MD,2024-08-10
+5e5fa7ed,Commercial,Boston,535.0,3.0,4.0,763562.0,Available,Kimberly Williams,2024-12-17
+439a6e9c,House,San Francisco,4766.0,4.0,4.0,174230.0,Available,Kirk Smith,2024-10-24
+c55131bc,House,San Francisco,695.0,5.0,4.0,204175.0,Sold,Cody Phillips,2023-12-06
+eb996a28,Villa,Dallas,4656.0,2.0,3.0,66053.0,Sold,Patricia Grant,2023-04-11
+95f50447,House,Miami,3445.0,6.0,1.0,630810.0,Rented,Ann Hardy,2025-02-17
+82e16d4f,Commercial,Seattle,3062.0,4.0,2.0,867552.0,Available,Lisa Rogers DDS,2025-01-21
+ab10714f,Villa,Los Angeles,2623.0,2.0,1.0,532011.0,Available,Andrew Hartman,2024-07-25
+21726631,Villa,Seattle,831.0,,2.0,145421.0,Sold,Victoria Jones,2023-05-12
+a7994a4f,House,Los Angeles,3638.0,5.0,4.0,125071.0,Available,Stacy Waller,2024-11-23
+40bf9075,House,Houston,1267.0,3.0,1.0,797064.0,Rented,Stanley Wood,2023-12-18
+f7eee932,Apartment,Seattle,1891.0,4.0,2.0,252845.0,Available,John Davis,2025-03-16
+f56adae1,House,Los Angeles,1659.0,1.0,1.0,546279.0,Available,Dale Cruz,2024-04-28
+7e10057f,Commercial,Seattle,4427.0,4.0,3.0,754716.0,Rented,Xavier Bates,2024-10-01
+101810d7,Commercial,Los Angeles,1677.0,3.0,2.0,288830.0,Rented,Katie Mcdaniel,2024-05-14
+9266b18e,Villa,San Francisco,2837.0,2.0,2.0,753182.0,Available,Jason Johnson,2023-12-28
+ab50ee78,House,Boston,4230.0,2.0,2.0,790606.0,Sold,Yolanda Gonzalez,2025-03-13
+680f0009,Apartment,Miami,2033.0,1.0,4.0,292598.0,Rented,Amber Gonzales,2023-07-26
+beb3025f,Commercial,Denver,1327.0,1.0,3.0,927345.0,Sold,Denise Jacobs MD,2024-07-31
+a0338db2,Villa,Houston,2603.0,2.0,4.0,419815.0,Sold,Joanna Cooper,2024-09-05
+f2b7ea01,Commercial,San Francisco,1065.0,6.0,4.0,193169.0,Available,Brittany Hanna,2024-06-08
+afa71289,Villa,Houston,2162.0,4.0,3.0,433761.0,Sold,Eduardo Ruiz DDS,2024-10-09
+77cc84cf,Commercial,Miami,,5.0,4.0,900930.0,Available,Melvin Burns,2023-03-25
+ba016b9c,Villa,Los Angeles,3002.0,4.0,4.0,809649.0,Sold,Gabrielle Schultz,2023-06-28
+d858aea9,House,Seattle,2397.0,3.0,2.0,118541.0,Sold,Katie Vargas,2024-07-28
+09834955,Apartment,Boston,2928.0,5.0,,755479.0,Available,Sara Shaw,2024-04-01
+26318ebb,Apartment,Miami,2989.0,2.0,2.0,232489.0,Available,Bill Cook,2024-04-01
+f4c5b1bd,Villa,Chicago,4825.0,3.0,3.0,565151.0,Sold,Maria Johnson DVM,2023-03-27
+a0148371,Villa,San Francisco,1410.0,3.0,1.0,601706.0,Sold,Michelle Santos,2024-10-19
+e6c51793,House,Denver,4969.0,5.0,4.0,786698.0,Available,Joseph Holt,2024-12-10
+13295f1b,Villa,Boston,1955.0,6.0,1.0,547477.0,Rented,Timothy Butler,2024-06-04
+5e4fbd71,Villa,Los Angeles,617.0,2.0,3.0,343994.0,Rented,Lori Ramirez,2025-03-14
+5f17f015,Villa,Seattle,,6.0,1.0,943434.0,Sold,Steven Kelley,2023-10-25
+11a41219,Commercial,Denver,1220.0,2.0,1.0,405258.0,Rented,Brian Harding,2025-01-23
+be44c461,Villa,San Francisco,4370.0,2.0,3.0,799992.0,Available,Kristi Gardner,2024-07-04
+30bf61bb,Villa,Seattle,4805.0,5.0,,192960.0,Rented,Kyle Morales,2024-10-19
+4958f92c,Commercial,Dallas,4691.0,2.0,1.0,,Rented,Benjamin Jones,2024-06-20
+7ba3606f,House,Boston,501.0,1.0,1.0,602804.0,Sold,Laura Stephens,2024-03-20
+b358d123,Apartment,Denver,4130.0,6.0,3.0,70296.0,Rented,Ashley Reyes,2024-04-04
+32fd775a,Villa,Dallas,3061.0,4.0,,213576.0,Rented,Mr. Rodney Johns,2024-06-12
+c8635fbc,Villa,Boston,2145.0,6.0,3.0,976665.0,Sold,Julie Clayton,2023-07-04
+06381ff7,House,Seattle,649.0,2.0,2.0,,Sold,Amy Johnson,2024-06-22
+23ba6b7d,Apartment,Miami,4501.0,4.0,1.0,606924.0,Available,Thomas Maxwell,2023-04-23
+06e1a8ae,Apartment,San Francisco,2038.0,4.0,2.0,952436.0,Rented,Richard Wright,2024-08-14
+5bfe7d9c,Commercial,Chicago,1745.0,4.0,2.0,409807.0,Available,Robin Church,2024-01-22
+86d71d07,Apartment,Houston,4365.0,5.0,4.0,116710.0,Rented,Brian Bowers,2023-06-09
+14259f85,House,Boston,1657.0,,2.0,132315.0,Rented,Angela Olson,2023-07-04
+56a44636,Villa,Los Angeles,4250.0,4.0,4.0,490575.0,Rented,Brian Harris DVM,2024-02-14
+bbc2d060,House,Houston,2823.0,5.0,3.0,491302.0,Rented,Kathleen Hawkins,2025-01-20
+910ba1b5,Commercial,Boston,2354.0,4.0,3.0,823617.0,Sold,Sherry Willis,2023-12-16
+26f6c63b,Apartment,Dallas,3174.0,2.0,1.0,312670.0,Available,Amy King,2023-08-28
+c1834378,House,Denver,4179.0,5.0,3.0,678395.0,Sold,Tyler Tran,2024-09-26
+3b9c3d0f,Commercial,San Francisco,3007.0,4.0,3.0,697144.0,Rented,Amanda Mendez,2023-12-27
+cf7c25af,Apartment,New York,2193.0,6.0,1.0,665798.0,Rented,Daniel Stewart,2024-12-04
+8a0e7e68,House,Miami,830.0,2.0,4.0,655287.0,Rented,Kyle Perez,2024-01-03
+e36b54dc,House,New York,2035.0,3.0,2.0,634317.0,Sold,William Guzman,2023-06-03
+ab6151ea,Villa,Seattle,3760.0,3.0,2.0,625285.0,Rented,Carl Woods,2023-08-14
+43cf4626,Apartment,Miami,4931.0,1.0,,939031.0,Available,Gregory Smith,2023-09-28
+81d314e6,Apartment,New York,1854.0,4.0,3.0,305237.0,Sold,Edward Miller,2023-11-26
+33f4f766,House,Los Angeles,4407.0,,3.0,315579.0,Rented,Benjamin Jones,2024-07-03
+db4c04ad,House,Seattle,2750.0,5.0,1.0,132395.0,Available,John Burke,2023-10-18
+04dfd606,Villa,New York,3827.0,1.0,1.0,120948.0,Sold,Andrew Juarez,2024-01-10
+b1ac8a15,House,Boston,3216.0,3.0,4.0,,Sold,Michelle Lee,2025-02-27
+2db0cdca,Villa,Los Angeles,596.0,5.0,4.0,225747.0,Sold,Melanie Valdez,2024-10-15
+6688b652,Apartment,Boston,1081.0,3.0,1.0,661480.0,Available,Jennifer Stanley,2023-12-23
+89d2458f,House,Seattle,3316.0,3.0,4.0,247581.0,Sold,Caroline Hodge,2023-09-18
+1176c552,House,Houston,4462.0,4.0,2.0,620291.0,Sold,Caitlin Hoover,2024-10-06
+06e8f275,House,Houston,969.0,,4.0,543631.0,Sold,Diane Sandoval,2024-11-08
+449bc35c,House,San Francisco,1808.0,3.0,,371661.0,Rented,Janet Aguirre,2024-02-16
+fd9ce122,House,San Francisco,4161.0,1.0,3.0,176936.0,Available,Tracy Jordan,2024-08-20
+6a7fa6c6,House,Boston,2989.0,2.0,3.0,223914.0,Available,Brandon Blankenship,2024-09-29
